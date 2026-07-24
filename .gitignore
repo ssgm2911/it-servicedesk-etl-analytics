@@ -1,0 +1,11 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos temporales de Power BI
+*.pbix.ghost

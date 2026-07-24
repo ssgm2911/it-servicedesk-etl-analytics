@@ -1,0 +1,1001 @@
+﻿Ticket_ID,Fecha_Apertura,Fecha_Cierre,Categoria,Prioridad,Estado,Tecnico_Asignado,Usuario_Solicitante,Costo_Reparacion_USD
+TCK-1001,2026-06-13 09:00:00,2026-06-14 03:00:00,Software,Media,Cerrado,Ana Torres,José Alfonso Salgado Reyes,0.0
+TCK-1002,2026-05-20 09:00:00,2026-05-21 13:00:00,Hardware,Alta,CERRADO,Carlos Mendoza,Fernando Víctor Romero Hurtado,
+TCK-1003,2026-02-20 16:00:00,,Software,ALTA,Abierto, Sin Asignar ,Francia Guerrero,0.0
+TCK-1004,2026-02-10 14:00:00,,Redes y Accesos,Media,En Proceso,Ana Torres,Yeny Morales,0.0
+TCK-1005,2026-01-24 14:00:00,2026-01-25 13:00:00,hardware,Baja,Cerrado, Sin Asignar ,José Luis Alvarado,40.86
+TCK-1006,2026-02-01 14:00:00,2026-02-03 02:00:00,Redes y Accesos,,Cerrado, Sin Asignar ,Francisco Betancur,0.0
+TCK-1007,2026-02-19 09:00:00,2026-02-20 00:00:00,hardware,Baja,Cerrado,Carlos Mendoza,Hernán Hurtado,435.91
+TCK-1008,2026-04-27 13:00:00,2026-04-28 13:00:00,Redes y Accesos,Media,Resuelto,carlos mendoza,Laura Cárdenas Estrada,0.0
+TCK-1009,2026-06-15 09:00:00,2026-06-15 20:00:00,Laptops / Equipos,,CERRADO,Ana Torres,  luz esperanza valencia  ,202.14
+TCK-1010,2026-06-13 16:00:00,2026-06-14 13:00:00,hardware,Alta,Resuelto,Ana Torres,Damaris Pabón,406.42
+TCK-1011,2026-01-17 11:00:00,2026-01-18 08:00:00,Software,,CERRADO,Sofia Ramos,Antonio Bustamante López,0.0
+TCK-1012,2026-04-28 10:00:00,,Software,Media,En Proceso,carlos mendoza,Marcela Paola Ángel Suárez,0.0
+TCK-1013,2026-05-30 14:00:00,2026-05-31 16:00:00,Redes y Accesos,Media,CERRADO,Ana Torres,Yuliana Luz Reyes Monsalve,
+TCK-1014,2026-01-13 09:00:00,2026-01-13 20:00:00,hardware,,Resuelto,Sofia Ramos,Ferney Rincón Pérez,204.69
+TCK-1015,2026-04-30 16:00:00,,Laptops / Equipos,Alta,En Proceso,carlos mendoza,Laura Natalia Hoyos Núñez,347.22
+TCK-1016,2026-03-10 13:00:00,2026-03-11 08:00:00,Impresoras,Media,Cerrado,Sofia Ramos,  miguel morales ballesteros  ,0.0
+TCK-1017,2026-03-09 16:00:00,2026-03-11 01:00:00,Hardware,,Resuelto,Luis Gómez,Nicolás Gabriel Gil,263.68
+TCK-1018,2026-04-06 10:00:00,2026-04-07 20:00:00,Hardware,Critical,CERRADO,Luis Gómez,María Luisa Vergara,73.7
+TCK-1019,2026-03-20 11:00:00,2026-03-21 03:00:00,Laptops / Equipos,Alta,Cerrado,Carlos Mendoza,Mateo Castillo,411.69
+TCK-1020,2026-05-17 10:00:00,2026-05-18 17:00:00,Laptops / Equipos,Media,Resuelto,Luis Gómez,Miguel Jaime Mercado Ramos,311.17
+TCK-1021,2026-05-19 11:00:00,,Impresoras,,En Proceso,carlos mendoza,Johana Peña,0.0
+TCK-1022,2026-04-26 09:00:00,2026-04-27 00:00:00,Hardware,Baja,Resuelto,Carlos Mendoza,Carlos Alexander Díaz Alzate,130.46
+TCK-1023,2026-01-19 08:00:00,2026-01-19 13:00:00,Hardware,Baja,Resuelto,Carlos Mendoza,Leidy Bibiana Naranjo Jiménez,153.67
+TCK-1024,2026-05-19 10:00:00,2026-05-20 17:00:00,Software,ALTA,CERRADO,Sofia Ramos,  martha marcela aguirre  ,
+TCK-1025,2026-04-21 13:00:00,,Impresoras,ALTA,Abierto,carlos mendoza,  luz uribe torres  ,0.0
+TCK-1026,2026-06-15 09:00:00,2026-06-16 11:00:00,SOFTWARE,Baja,Cerrado,Carlos Mendoza,Yurani Rojas,0.0
+TCK-1027,2026-04-25 10:00:00,,Software,Baja,Abierto,Sofia Ramos,María Pinzón Aguirre,0.0
+TCK-1028,2026-04-24 16:00:00,2026-04-24 20:00:00,SOFTWARE,Critical,Cerrado,Carlos Mendoza,Juan Diego Carmona,0.0
+TCK-1029,2026-03-02 10:00:00,,Impresoras,ALTA,Abierto,Ana Torres,Paola Romero,0.0
+TCK-1030,2026-02-12 14:00:00,2026-02-13 15:00:00,Redes y Accesos,ALTA,Cerrado,Luis Gómez,Yolanda Niño,0.0
+TCK-1031,2026-05-23 15:00:00,2026-05-24 04:00:00,Redes y Accesos,Media,Resuelto,Carlos Mendoza,Lucía Santos Caicedo,0.0
+TCK-1032,2026-03-22 08:00:00,2026-03-23 15:00:00,Laptops / Equipos,Critical,Cerrado,Ana Torres,  maría karen castro martínez  ,263.76
+TCK-1033,2026-01-18 17:00:00,2026-01-19 09:00:00,Impresoras,Alta,Cerrado, Sin Asignar ,María Rojas Cabrera,0.0
+TCK-1034,2026-06-08 09:00:00,,SOFTWARE,Critical,Abierto, Sin Asignar ,Deisy Marina Rueda Chacón,0.0
+TCK-1035,2026-02-22 13:00:00,2026-02-23 06:00:00,Impresoras,Media,Resuelto,carlos mendoza,Clara Valencia,0.0
+TCK-1036,2026-01-19 08:00:00,,Laptops / Equipos,Critical,Abierto,Carlos Mendoza,  consuelo gladys torres  ,122.31
+TCK-1037,2026-03-31 09:00:00,2026-04-01 09:00:00,Redes y Accesos,Media,Resuelto,Sofia Ramos,Eder Robinson Castaño,0.0
+TCK-1038,2026-06-06 16:00:00,2026-06-08 04:00:00,Redes y Accesos,,Cerrado,Carlos Mendoza,Carlos Barreto Cabrera,0.0
+TCK-1039,2026-01-30 09:00:00,2026-01-30 19:00:00,Redes y Accesos,Baja,CERRADO, Sin Asignar ,Germán Pablo Ramírez Gómez,0.0
+TCK-1040,2026-06-25 12:00:00,2026-06-26 20:00:00,Redes y Accesos,Alta,CERRADO,Carlos Mendoza,Johan Andrés Silva,0.0
+TCK-1041,2026-01-12 08:00:00,,hardware,Media,En Proceso,carlos mendoza,William Arias,97.56
+TCK-1042,2026-06-30 14:00:00,2026-06-30 15:00:00,Hardware,Alta,CERRADO,carlos mendoza,Lilia Consuelo Osorio Espinosa,281.88
+TCK-1043,2026-05-30 16:00:00,2026-05-31 20:00:00,Software,Alta,Resuelto,Luis Gómez,Andrea Ceballos Castro,0.0
+TCK-1044,2026-01-11 13:00:00,2026-01-12 05:00:00,SOFTWARE,Alta,Resuelto,Luis Gómez,Sandra Ruiz Guzmán,0.0
+TCK-1045,2026-04-15 17:00:00,2026-04-16 09:00:00,hardware,Media,Resuelto,Ana Torres,Marly Villamil,31.9
+TCK-1046,2026-03-27 14:00:00,2026-03-28 08:00:00,Software,,Resuelto,Carlos Mendoza,Juan Acosta Rosero,
+TCK-1047,2026-05-01 11:00:00,2026-05-02 17:00:00,Redes y Accesos,Baja,Resuelto,Ana Torres,Mery Forero,0.0
+TCK-1048,2026-04-13 13:00:00,,hardware,Alta,En Proceso,Luis Gómez,Tulia Martha Bustos Pérez,264.51
+TCK-1049,2026-05-18 13:00:00,2026-05-18 21:00:00,Redes y Accesos,Media,Cerrado, Sin Asignar ,Camilo Caicedo,0.0
+TCK-1050,2026-01-28 17:00:00,,Redes y Accesos,,Abierto,Luis Gómez,Mary Karen Herrera Rojas,0.0
+TCK-1051,2026-01-30 14:00:00,2026-01-31 03:00:00,Redes y Accesos,Alta,CERRADO,carlos mendoza,Claudia González,0.0
+TCK-1052,2026-05-18 11:00:00,,Impresoras,Alta,En Proceso,carlos mendoza,Liliana Hilda Rodríguez,0.0
+TCK-1053,2026-06-19 09:00:00,,Laptops / Equipos,Baja,En Proceso,carlos mendoza,Jacqueline Camacho Olaya,213.15
+TCK-1054,2026-02-02 11:00:00,,SOFTWARE,ALTA,Abierto,carlos mendoza,Gabriel Arias,0.0
+TCK-1055,2026-05-26 12:00:00,,Laptops / Equipos,Alta,Abierto,Luis Gómez,Luis Mosquera Romero,226.35
+TCK-1056,2026-06-17 13:00:00,,Impresoras,ALTA,Abierto,carlos mendoza,Hernán Edilberto Pérez,0.0
+TCK-1057,2026-02-13 09:00:00,,Laptops / Equipos,,En Proceso,carlos mendoza,Luis Mauricio Aguirre Cruz,64.83
+TCK-1058,2026-03-02 12:00:00,2026-03-03 01:00:00,Software,Alta,Resuelto,Carlos Mendoza,Lisbeth Jessica Amaya González,0.0
+TCK-1059,2026-01-19 15:00:00,,SOFTWARE,Critical,Abierto,Ana Torres,William Cristian Zambrano Flórez,0.0
+TCK-1060,2026-04-13 11:00:00,2026-04-13 12:00:00,hardware,Alta,Resuelto,Sofia Ramos,Alexandra Leal Pérez,405.97
+TCK-1061,2026-04-29 08:00:00,2026-04-30 00:00:00,hardware,Alta,CERRADO,Sofia Ramos,  paola soto lópez  ,243.03
+TCK-1062,2026-05-24 17:00:00,,hardware,ALTA,En Proceso, Sin Asignar ,Carlos Jesús García,448.17
+TCK-1063,2026-05-21 15:00:00,2026-05-22 22:00:00,Impresoras,Baja,Resuelto,Ana Torres,Reinel Carlos Bravo Gómez,0.0
+TCK-1064,2026-05-14 15:00:00,2026-05-15 09:00:00,Impresoras,Alta,Resuelto,carlos mendoza,Patricia Garzón Mosquera,0.0
+TCK-1065,2026-03-23 16:00:00,2026-03-24 01:00:00,Software,Media,Cerrado,Sofia Ramos,Víctor Juan Galvis,0.0
+TCK-1066,2026-01-17 14:00:00,,Redes y Accesos,Critical,Abierto,Sofia Ramos,Yéssica Milena González Ríos,0.0
+TCK-1067,2026-04-18 14:00:00,2026-04-18 16:00:00,hardware,Critical,CERRADO,Sofia Ramos,Fernanda Andrea Gutiérrez Arenas,472.52
+TCK-1068,2026-04-10 14:00:00,2026-04-12 01:00:00,hardware,Critical,CERRADO,Ana Torres,Roberto Fuentes Granados,151.01
+TCK-1069,2026-04-10 13:00:00,,SOFTWARE,Media,Abierto,Sofia Ramos,Juan José Meza Rojas,0.0
+TCK-1070,2026-05-17 08:00:00,,Laptops / Equipos,Critical,Abierto,carlos mendoza,  damaris martínez  ,328.52
+TCK-1071,2026-04-29 10:00:00,2026-04-30 03:00:00,Impresoras,Baja,Cerrado,Ana Torres,Luis Esteban Solano Castillo,0.0
+TCK-1072,2026-04-08 12:00:00,,Redes y Accesos,Alta,Abierto,Sofia Ramos,  estela martha quintero  ,0.0
+TCK-1073,2026-03-31 11:00:00,2026-03-31 14:00:00,hardware,Alta,Cerrado,Ana Torres,  luz katerine ariza  ,29.78
+TCK-1074,2026-02-02 15:00:00,2026-02-03 05:00:00,Impresoras,,Cerrado,Luis Gómez,Sara Judith Durán,0.0
+TCK-1075,2026-06-05 09:00:00,2026-06-06 05:00:00,Hardware,Critical,Resuelto,Carlos Mendoza,Carmen Camila Rentería,296.38
+TCK-1076,2026-04-07 14:00:00,2026-04-07 19:00:00,Laptops / Equipos,,Resuelto,carlos mendoza,Orlando Moreno,354.65
+TCK-1077,2026-06-25 17:00:00,2026-06-25 20:00:00,Redes y Accesos,Critical,Cerrado,Sofia Ramos,Orlando Bernal,
+TCK-1078,2026-06-15 13:00:00,2026-06-16 16:00:00,hardware,ALTA,Cerrado,Carlos Mendoza,Adolfo Mendoza Pulido,193.85
+TCK-1079,2026-04-28 10:00:00,,Software,,Abierto, Sin Asignar ,Mery Inés Núñez,0.0
+TCK-1080,2026-05-18 15:00:00,,Impresoras,,Abierto, Sin Asignar ,Mauricio Luis Sánchez,0.0
+TCK-1081,2026-01-23 12:00:00,,Software,ALTA,Abierto, Sin Asignar ,Manuel Alexander Ortiz Pérez,0.0
+TCK-1082,2026-01-08 15:00:00,,Software,ALTA,En Proceso,Ana Torres,Amanda Ortiz,0.0
+TCK-1083,2026-03-13 17:00:00,,Laptops / Equipos,Alta,En Proceso, Sin Asignar ,Jefferson Jorge Jiménez Zuluaga,61.09
+TCK-1084,2026-05-06 16:00:00,2026-05-07 23:00:00,SOFTWARE,,Resuelto,Sofia Ramos,Luis Franco Barrios,
+TCK-1085,2026-03-17 11:00:00,,SOFTWARE,Media,Abierto,Luis Gómez,José Rivas,0.0
+TCK-1086,2026-05-22 16:00:00,,Impresoras,,En Proceso, Sin Asignar ,Alejandro Quintero,0.0
+TCK-1087,2026-03-11 12:00:00,,Software,Alta,En Proceso,carlos mendoza,  andrés salazar pérez  ,0.0
+TCK-1088,2026-05-18 10:00:00,2026-05-19 00:00:00,SOFTWARE,ALTA,Resuelto,Luis Gómez,Iván González García,0.0
+TCK-1089,2026-05-15 17:00:00,,Hardware,Media,En Proceso,Luis Gómez,Ruth Mosquera Gaitán,
+TCK-1090,2026-05-17 10:00:00,,Hardware,Alta,En Proceso, Sin Asignar ,Esperanza María Zambrano,473.16
+TCK-1091,2026-05-06 09:00:00,2026-05-07 04:00:00,Impresoras,ALTA,Cerrado,Sofia Ramos,Danna Suárez Forero,0.0
+TCK-1092,2026-03-06 15:00:00,2026-03-06 20:00:00,Impresoras,ALTA,Cerrado,Carlos Mendoza,Camilo Antonio Álvarez,0.0
+TCK-1093,2026-02-08 10:00:00,2026-02-09 06:00:00,Hardware,Media,CERRADO,Carlos Mendoza,Fernando Castro,219.76
+TCK-1094,2026-06-08 11:00:00,2026-06-09 12:00:00,Impresoras,ALTA,CERRADO,Luis Gómez,Eduardo Hugo Pineda,0.0
+TCK-1095,2026-03-20 17:00:00,2026-03-20 21:00:00,Laptops / Equipos,,CERRADO,Carlos Mendoza,Sofía Rodríguez Patiño,119.74
+TCK-1096,2026-06-19 09:00:00,2026-06-20 01:00:00,Software,Critical,Resuelto,Carlos Mendoza,  luz gil velásquez  ,0.0
+TCK-1097,2026-06-26 17:00:00,,Redes y Accesos,Alta,Abierto,Ana Torres,Alfredo Hoyos Rodríguez,0.0
+TCK-1098,2026-04-27 09:00:00,2026-04-28 02:00:00,hardware,,Resuelto, Sin Asignar ,David Díaz,468.16
+TCK-1099,2026-05-20 11:00:00,2026-05-21 05:00:00,hardware,Media,Resuelto,Carlos Mendoza,  carlos sánchez  ,400.46
+TCK-1100,2026-05-26 12:00:00,,Hardware,ALTA,Abierto,carlos mendoza,Milena Rosa Vargas,213.2
+TCK-1101,2026-05-19 15:00:00,,Hardware,Critical,Abierto,Carlos Mendoza,Liceth Stella Valencia,372.58
+TCK-1102,2026-01-07 09:00:00,2026-01-07 11:00:00,hardware,,Resuelto,Luis Gómez,Fernando Miguel Rojas Daza,386.29
+TCK-1103,2026-05-13 15:00:00,,Software,Critical,En Proceso,Sofia Ramos,Natalia García,0.0
+TCK-1104,2026-01-24 15:00:00,,Impresoras,Baja,En Proceso,Luis Gómez,Alcira María Romero Rendón,0.0
+TCK-1105,2026-03-26 14:00:00,,Redes y Accesos,,Abierto,Sofia Ramos,Jesús Luis Arroyo,0.0
+TCK-1106,2026-04-27 09:00:00,,Redes y Accesos,Baja,En Proceso,Carlos Mendoza,Erika Muñoz,0.0
+TCK-1107,2026-05-12 08:00:00,2026-05-13 14:00:00,Impresoras,Alta,CERRADO,Ana Torres,Luz Diana Ríos Bernal,0.0
+TCK-1108,2026-05-08 15:00:00,2026-05-09 05:00:00,Redes y Accesos,Critical,Cerrado,Ana Torres,Jorge Pabón Ortiz,0.0
+TCK-1109,2026-06-28 15:00:00,2026-06-28 17:00:00,SOFTWARE,Critical,Cerrado,Ana Torres,Andrés Sánchez Contreras,0.0
+TCK-1110,2026-01-04 16:00:00,,Hardware,Media,Abierto,Carlos Mendoza,Emilia Rubio Medina,76.38
+TCK-1111,2026-05-08 12:00:00,2026-05-09 06:00:00,Impresoras,ALTA,CERRADO,Sofia Ramos,María Carmona,0.0
+TCK-1112,2026-04-09 11:00:00,2026-04-10 20:00:00,SOFTWARE,Media,CERRADO,Carlos Mendoza,Elkin Jairo Mosquera,0.0
+TCK-1113,2026-04-17 13:00:00,2026-04-18 07:00:00,hardware,Alta,CERRADO,Luis Gómez,William Marín Arrieta,421.99
+TCK-1114,2026-06-18 15:00:00,2026-06-19 20:00:00,Laptops / Equipos,ALTA,Resuelto,Luis Gómez,Patricia Sánchez Gómez,386.18
+TCK-1115,2026-03-24 11:00:00,2026-03-25 12:00:00,Software,ALTA,Resuelto,Carlos Mendoza,Julio Méndez,0.0
+TCK-1116,2026-04-08 14:00:00,2026-04-09 22:00:00,Hardware,Media,Resuelto, Sin Asignar ,Stella Blanco,179.36
+TCK-1117,2026-04-23 09:00:00,2026-04-24 15:00:00,Hardware,,CERRADO,Ana Torres,Diana Flórez,334.3
+TCK-1118,2026-05-01 12:00:00,,Laptops / Equipos,,En Proceso,Sofia Ramos,Diego Carlos Andrade García,428.85
+TCK-1119,2026-05-17 14:00:00,,SOFTWARE,,En Proceso,Sofia Ramos,Johana Marín Sánchez,
+TCK-1120,2026-01-18 11:00:00,,Software,,En Proceso,Carlos Mendoza,José Luis Gómez Medina,
+TCK-1121,2026-06-12 09:00:00,,Software,,Abierto,Luis Gómez,Liliana Cecilia Gutiérrez Santos,
+TCK-1122,2026-01-15 12:00:00,,Redes y Accesos,ALTA,En Proceso,Ana Torres,Yuliana María Torres,0.0
+TCK-1123,2026-06-24 10:00:00,2026-06-24 22:00:00,Hardware,Critical,Resuelto,Sofia Ramos,Ancizar Álvaro García Lara,135.6
+TCK-1124,2026-02-06 11:00:00,,SOFTWARE,Baja,Abierto,Sofia Ramos,William Padilla Martínez,
+TCK-1125,2026-04-30 12:00:00,2026-04-30 23:00:00,Hardware,ALTA,CERRADO,Luis Gómez,Arturo Fernando Nieto,163.59
+TCK-1126,2026-06-26 12:00:00,,hardware,Baja,Abierto,Ana Torres,Carolina Burgos,429.6
+TCK-1127,2026-04-08 17:00:00,,Laptops / Equipos,Baja,En Proceso,carlos mendoza,Rosa Leidy Ballesteros Quiroga,489.41
+TCK-1128,2026-03-12 08:00:00,2026-03-12 12:00:00,Laptops / Equipos,,CERRADO,Sofia Ramos,Oswaldo Jaime Sierra,453.41
+TCK-1129,2026-02-28 17:00:00,,Software,,En Proceso,Ana Torres,Luis Santos,0.0
+TCK-1130,2026-06-18 10:00:00,2026-06-18 13:00:00,Redes y Accesos,ALTA,Cerrado,Carlos Mendoza,María Karol Ramírez Salamanca,0.0
+TCK-1131,2026-01-24 12:00:00,,SOFTWARE,ALTA,En Proceso,Ana Torres,Roberto Eduardo Rojas Hernández,0.0
+TCK-1132,2026-04-04 16:00:00,2026-04-05 10:00:00,hardware,Media,CERRADO,Luis Gómez,Fabián Carlos Arias Figueroa,473.21
+TCK-1133,2026-03-17 13:00:00,2026-03-18 19:00:00,Hardware,Media,Cerrado,Ana Torres,María Pulido Martínez,367.62
+TCK-1134,2026-05-23 13:00:00,2026-05-24 15:00:00,Hardware,Baja,Cerrado, Sin Asignar ,  david david rodríguez londoño  ,196.92
+TCK-1135,2026-03-09 17:00:00,,hardware,,Abierto,Luis Gómez,  luisa nataly murillo  ,
+TCK-1136,2026-05-24 13:00:00,2026-05-25 04:00:00,SOFTWARE,Alta,CERRADO,carlos mendoza,Fernando Caballero,0.0
+TCK-1137,2026-03-19 14:00:00,2026-03-19 23:00:00,Hardware,Alta,Cerrado,Luis Gómez,William Becerra Escobar,75.74
+TCK-1138,2026-05-18 10:00:00,,Impresoras,Baja,Abierto,carlos mendoza,Carmen Velandia Ramos,0.0
+TCK-1139,2026-05-19 14:00:00,2026-05-20 00:00:00,Impresoras,,CERRADO,Carlos Mendoza,Rocío Toro Ángel,0.0
+TCK-1140,2026-03-13 08:00:00,,Software,ALTA,En Proceso,Sofia Ramos,Patricia Leidy Méndez,0.0
+TCK-1141,2026-01-26 13:00:00,2026-01-27 12:00:00,Hardware,ALTA,CERRADO,Luis Gómez,  emilio santiago gutiérrez cárdenas  ,78.64
+TCK-1142,2026-04-27 09:00:00,2026-04-27 11:00:00,Hardware,Baja,Resuelto,Ana Torres,Martha Alba Velásquez,397.75
+TCK-1143,2026-05-22 11:00:00,2026-05-23 01:00:00,hardware,Media,CERRADO,Luis Gómez,Antonio Ardila,398.55
+TCK-1144,2026-03-12 10:00:00,2026-03-13 21:00:00,Redes y Accesos,Media,Resuelto,Carlos Mendoza,Marina Acosta,
+TCK-1145,2026-01-04 13:00:00,2026-01-05 10:00:00,Hardware,Media,Resuelto,Luis Gómez,  socorro yulieth franco  ,376.02
+TCK-1146,2026-01-17 15:00:00,,hardware,Baja,Abierto, Sin Asignar ,Daniel Andrés Granados,236.96
+TCK-1147,2026-06-07 08:00:00,2026-06-08 04:00:00,Impresoras,,CERRADO,Carlos Mendoza,  juan andrés villa  ,0.0
+TCK-1148,2026-04-13 14:00:00,2026-04-14 22:00:00,SOFTWARE,ALTA,Cerrado,Carlos Mendoza,Yeison Sandoval,0.0
+TCK-1149,2026-02-07 09:00:00,2026-02-08 03:00:00,Laptops / Equipos,,Resuelto, Sin Asignar ,Marina Ortega Suárez,176.09
+TCK-1150,2026-05-16 12:00:00,,Laptops / Equipos,Critical,Abierto,Sofia Ramos,  josé rico  ,356.85
+TCK-1151,2026-06-16 16:00:00,2026-06-17 20:00:00,Impresoras,Media,Resuelto,Sofia Ramos,Flor Arévalo Sánchez,0.0
+TCK-1152,2026-04-17 09:00:00,,Impresoras,Baja,En Proceso,carlos mendoza,Fabián Parra Maldonado,0.0
+TCK-1153,2026-06-25 15:00:00,2026-06-25 21:00:00,hardware,Alta,Cerrado,Carlos Mendoza,Ana Paola Vargas,377.4
+TCK-1154,2026-02-03 16:00:00,2026-02-05 04:00:00,Laptops / Equipos,Baja,Cerrado,carlos mendoza,  diana ángela calderón  ,189.73
+TCK-1155,2026-04-19 08:00:00,,Laptops / Equipos,Baja,En Proceso,Luis Gómez,  eduardo jesús meneses torres  ,263.56
+TCK-1156,2026-05-04 11:00:00,2026-05-05 10:00:00,hardware,Critical,Cerrado,Luis Gómez,  juan suárez  ,153.71
+TCK-1157,2026-04-20 16:00:00,2026-04-22 04:00:00,Hardware,Critical,CERRADO,carlos mendoza,Adriana Rodríguez Vega,148.37
+TCK-1158,2026-06-29 12:00:00,,Redes y Accesos,Alta,En Proceso,Ana Torres,Julio Sánchez,0.0
+TCK-1159,2026-04-13 09:00:00,2026-04-13 11:00:00,Hardware,,Resuelto, Sin Asignar ,Jorge Felipe Velásquez Villamil,221.52
+TCK-1160,2026-04-05 12:00:00,,hardware,Critical,En Proceso, Sin Asignar ,  eduardo alberto vega  ,45.25
+TCK-1161,2026-06-08 08:00:00,2026-06-09 02:00:00,Impresoras,,Cerrado,Sofia Ramos,Liliana Salazar Hernández,0.0
+TCK-1162,2026-03-11 11:00:00,2026-03-11 19:00:00,Redes y Accesos,ALTA,CERRADO,Carlos Mendoza,Tatiana Rivera Andrade,0.0
+TCK-1163,2026-05-05 16:00:00,,Hardware,Media,En Proceso,Sofia Ramos,María Gutiérrez León,46.3
+TCK-1164,2026-02-24 10:00:00,,Redes y Accesos,Baja,En Proceso,Carlos Mendoza,  adela caicedo carvajal  ,0.0
+TCK-1165,2026-02-14 10:00:00,,Laptops / Equipos,,Abierto,Ana Torres,Mariela Romero,420.01
+TCK-1166,2026-01-19 14:00:00,2026-01-20 18:00:00,Hardware,ALTA,Cerrado,Carlos Mendoza,Tomás Mosquera,296.36
+TCK-1167,2026-06-13 14:00:00,,Hardware,ALTA,En Proceso,Carlos Mendoza,Ignacio Arturo García Arias,102.5
+TCK-1168,2026-04-28 13:00:00,2026-04-29 17:00:00,hardware,Alta,Cerrado,Ana Torres,Carlos Ballesteros Prada,
+TCK-1169,2026-03-21 13:00:00,2026-03-22 11:00:00,hardware,Media,Resuelto,Carlos Mendoza,Andrea Alexandra Durán Medina,74.73
+TCK-1170,2026-03-31 13:00:00,2026-04-01 05:00:00,Hardware,Media,Resuelto,Luis Gómez,  yamile enith vera  ,309.15
+TCK-1171,2026-06-17 09:00:00,2026-06-18 17:00:00,Impresoras,Critical,Resuelto, Sin Asignar ,Elena Villa Rivera,0.0
+TCK-1172,2026-05-25 17:00:00,,hardware,,En Proceso,Luis Gómez,  maría adriana gonzález  ,52.78
+TCK-1173,2026-03-19 12:00:00,2026-03-19 16:00:00,Redes y Accesos,Critical,CERRADO,Carlos Mendoza,Elizabeth Martínez,0.0
+TCK-1174,2026-01-15 13:00:00,,Hardware,,En Proceso,Carlos Mendoza,Edinson Ávila,263.39
+TCK-1175,2026-05-22 08:00:00,,hardware,Critical,Abierto,carlos mendoza,  hernán gonzález ramos  ,310.4
+TCK-1176,2026-01-16 15:00:00,2026-01-17 13:00:00,SOFTWARE,Alta,Cerrado, Sin Asignar ,Jairo Muñoz López,
+TCK-1177,2026-04-23 15:00:00,2026-04-25 01:00:00,Laptops / Equipos,Media,CERRADO,Luis Gómez,Jhoan Daniel Rodríguez Sandoval,155.79
+TCK-1178,2026-03-28 17:00:00,2026-03-29 15:00:00,Hardware,Baja,Cerrado,Carlos Mendoza,Óscar Jhon Cárdenas Calderón,205.55
+TCK-1179,2026-06-18 17:00:00,2026-06-19 15:00:00,Hardware,Critical,Resuelto,carlos mendoza,  lina patricia caicedo  ,187.91
+TCK-1180,2026-06-28 14:00:00,2026-06-28 20:00:00,Redes y Accesos,Critical,Resuelto,Sofia Ramos,Kelly Cardona Muñoz,0.0
+TCK-1181,2026-02-02 16:00:00,2026-02-03 20:00:00,Laptops / Equipos,Baja,Cerrado,Carlos Mendoza,Carmen Martínez,106.53
+TCK-1182,2026-05-05 11:00:00,2026-05-05 20:00:00,Software,Alta,Resuelto,Luis Gómez,Luis Blanco Díaz,0.0
+TCK-1183,2026-05-19 16:00:00,2026-05-20 14:00:00,hardware,Critical,Cerrado,Ana Torres,Andrés Danilo Trujillo,94.04
+TCK-1184,2026-06-27 17:00:00,2026-06-28 22:00:00,Hardware,ALTA,Resuelto,Luis Gómez,Tatiana Leidy Díaz,134.01
+TCK-1185,2026-03-14 15:00:00,2026-03-16 02:00:00,Software,Baja,Resuelto,Sofia Ramos,Steven Juan Salazar Rojas,0.0
+TCK-1186,2026-06-23 17:00:00,,Impresoras,Baja,Abierto,Sofia Ramos,Junior Alberto Chacón Rodríguez,0.0
+TCK-1187,2026-02-11 11:00:00,2026-02-11 20:00:00,hardware,Baja,CERRADO,Carlos Mendoza,Liliana Vásquez López,439.58
+TCK-1188,2026-01-27 16:00:00,2026-01-28 11:00:00,Hardware,Media,Cerrado,Luis Gómez,Angélica Acevedo Vergara,266.41
+TCK-1189,2026-01-24 11:00:00,,Redes y Accesos,Alta,Abierto,Sofia Ramos,  claudia gloria rojas  ,0.0
+TCK-1190,2026-03-02 14:00:00,2026-03-03 14:00:00,Software,Alta,Cerrado,Luis Gómez,Martha Adriana Contreras Hernández,0.0
+TCK-1191,2026-06-16 13:00:00,2026-06-16 22:00:00,Hardware,Baja,Resuelto,Sofia Ramos,Teresa Elena Hernández Pérez,86.62
+TCK-1192,2026-04-25 17:00:00,2026-04-25 23:00:00,Hardware,Baja,Cerrado,Ana Torres,Ana Barragán,283.43
+TCK-1193,2026-05-16 14:00:00,2026-05-17 09:00:00,Software,Baja,Cerrado,Carlos Mendoza,  esther clara leal rangel  ,0.0
+TCK-1194,2026-06-09 15:00:00,2026-06-09 23:00:00,hardware,ALTA,Cerrado, Sin Asignar ,Edinson Rendón,323.34
+TCK-1195,2026-02-06 12:00:00,,Hardware,Critical,Abierto,Luis Gómez,Camilo Luis Camargo,219.95
+TCK-1196,2026-01-22 16:00:00,,Hardware,Critical,En Proceso, Sin Asignar ,Luz Zapata,494.4
+TCK-1197,2026-04-10 15:00:00,2026-04-11 16:00:00,Redes y Accesos,Baja,Cerrado,carlos mendoza,  javier fernando saavedra buitrago  ,0.0
+TCK-1198,2026-03-30 11:00:00,2026-03-31 09:00:00,Software,Alta,Cerrado,Luis Gómez,Omar Moreno,0.0
+TCK-1199,2026-02-14 15:00:00,,SOFTWARE,Media,Abierto,Ana Torres,  lilia rangel peña  ,0.0
+TCK-1200,2026-04-28 08:00:00,,Software,Alta,En Proceso,Ana Torres,Héctor Polo Martínez,0.0
+TCK-1201,2026-03-21 16:00:00,,hardware,Critical,Abierto,Sofia Ramos,Joel Fernando Ospina López,381.58
+TCK-1202,2026-04-02 08:00:00,,Redes y Accesos,Alta,En Proceso,Luis Gómez,Mercedes Andrea Sánchez,0.0
+TCK-1203,2026-04-23 14:00:00,,Software,ALTA,En Proceso,carlos mendoza,Sebastián Galvis Ortiz,0.0
+TCK-1204,2026-05-13 12:00:00,2026-05-14 16:00:00,Hardware,ALTA,Cerrado, Sin Asignar ,Julio Sandoval,106.62
+TCK-1205,2026-01-27 09:00:00,,SOFTWARE,Baja,En Proceso,Luis Gómez,Nancy Ordóñez Mendoza,0.0
+TCK-1206,2026-02-12 15:00:00,,Impresoras,Alta,En Proceso,carlos mendoza,Angie Pérez,0.0
+TCK-1207,2026-04-22 12:00:00,2026-04-22 17:00:00,SOFTWARE,,Cerrado,Sofia Ramos,Janeth Libia Ramírez Ochoa,0.0
+TCK-1208,2026-06-23 10:00:00,2026-06-23 20:00:00,hardware,Critical,Cerrado,carlos mendoza,Dora Mejía Guerrero,
+TCK-1209,2026-06-15 13:00:00,,Impresoras,Critical,En Proceso,Carlos Mendoza,Jhon Calderón Garcés,0.0
+TCK-1210,2026-04-05 13:00:00,,hardware,Alta,Abierto, Sin Asignar ,  andrés osorio ayala  ,196.14
+TCK-1211,2026-03-13 11:00:00,2026-03-13 13:00:00,SOFTWARE,Media,Cerrado,Sofia Ramos,César Daza,0.0
+TCK-1212,2026-01-31 12:00:00,,SOFTWARE,ALTA,En Proceso,Ana Torres,Yolanda Estella Molina,0.0
+TCK-1213,2026-05-06 11:00:00,2026-05-06 20:00:00,hardware,Alta,Cerrado,Sofia Ramos,  óscar rafael valencia  ,362.42
+TCK-1214,2026-06-24 13:00:00,,SOFTWARE,Alta,En Proceso, Sin Asignar ,Eliecer Yesid Rosero Yepes,0.0
+TCK-1215,2026-02-10 10:00:00,,Laptops / Equipos,Media,En Proceso,Carlos Mendoza,Jorge Gutiérrez,400.19
+TCK-1216,2026-05-07 08:00:00,,Laptops / Equipos,Critical,En Proceso,Luis Gómez,Beatriz Arango Vega,491.85
+TCK-1217,2026-01-23 09:00:00,,Impresoras,,En Proceso,carlos mendoza,Daniela Martínez Barrera,0.0
+TCK-1218,2026-04-15 17:00:00,2026-04-16 02:00:00,Redes y Accesos,,Cerrado,Carlos Mendoza,Ana Maritza Pineda Buitrago,0.0
+TCK-1219,2026-03-30 10:00:00,2026-03-30 22:00:00,hardware,Media,CERRADO,Sofia Ramos,Carlos Edwin Mantilla,436.74
+TCK-1220,2026-05-13 10:00:00,,Software,Media,En Proceso,Luis Gómez,Angie Hernández Ortega,0.0
+TCK-1221,2026-05-13 12:00:00,2026-05-14 05:00:00,Software,,Cerrado, Sin Asignar ,Andrés Jaime Martínez,0.0
+TCK-1222,2026-06-07 16:00:00,2026-06-09 01:00:00,SOFTWARE,Media,Cerrado, Sin Asignar ,José Jhonatan Jaimes,0.0
+TCK-1223,2026-06-18 17:00:00,2026-06-19 15:00:00,hardware,Critical,CERRADO,Carlos Mendoza,Jesús Hugo Galvis Méndez,
+TCK-1224,2026-06-14 17:00:00,,SOFTWARE,Media,En Proceso, Sin Asignar ,Iván Aníbal Pulido,0.0
+TCK-1225,2026-05-08 16:00:00,,SOFTWARE,Baja,En Proceso,Sofia Ramos,Alberto Jonathan García Pérez,0.0
+TCK-1226,2026-04-14 12:00:00,,Hardware,,Abierto,Carlos Mendoza,  yolanda elsy bohórquez velandia  ,219.5
+TCK-1227,2026-03-29 17:00:00,2026-03-30 14:00:00,hardware,,Resuelto,Luis Gómez,Cristina Estela Suárez,433.17
+TCK-1228,2026-02-03 13:00:00,2026-02-05 01:00:00,Hardware,Baja,CERRADO,Ana Torres,Alfredo Roberto Ávila,148.39
+TCK-1229,2026-01-25 08:00:00,,Impresoras,Critical,En Proceso,Sofia Ramos,Leonardo Rafael Torres,0.0
+TCK-1230,2026-02-10 13:00:00,2026-02-11 10:00:00,Software,Media,CERRADO,Sofia Ramos,Alonso Castro Saavedra,0.0
+TCK-1231,2026-03-20 15:00:00,2026-03-20 21:00:00,Impresoras,Critical,Cerrado,Sofia Ramos,Stella Obando,0.0
+TCK-1232,2026-04-01 08:00:00,2026-04-02 03:00:00,Impresoras,Critical,Cerrado,carlos mendoza,Alexander Flórez,0.0
+TCK-1233,2026-01-03 09:00:00,,Software,Baja,Abierto,carlos mendoza,Cecilia Ruiz Arias,0.0
+TCK-1234,2026-01-12 14:00:00,2026-01-14 02:00:00,Software,Baja,Cerrado, Sin Asignar ,Alberto Barreto Flórez,0.0
+TCK-1235,2026-04-26 16:00:00,,hardware,Critical,En Proceso,carlos mendoza,Brayan Ortiz,
+TCK-1236,2026-04-06 13:00:00,2026-04-07 13:00:00,hardware,Media,CERRADO,Ana Torres,David Bonilla,
+TCK-1237,2026-01-10 10:00:00,,hardware,ALTA,En Proceso, Sin Asignar ,Eliecer Domínguez,311.01
+TCK-1238,2026-03-25 17:00:00,,Software,ALTA,En Proceso, Sin Asignar ,John Javier Ortiz,0.0
+TCK-1239,2026-03-28 16:00:00,2026-03-30 03:00:00,Impresoras,,CERRADO, Sin Asignar ,María Martha Ospina Fonseca,0.0
+TCK-1240,2026-04-05 13:00:00,2026-04-06 16:00:00,Laptops / Equipos,Baja,Cerrado,carlos mendoza,José Andrés Pérez,322.05
+TCK-1241,2026-03-09 17:00:00,2026-03-10 08:00:00,SOFTWARE,Alta,CERRADO, Sin Asignar ,Isabel Ramírez Espitia,0.0
+TCK-1242,2026-06-08 14:00:00,2026-06-09 06:00:00,Hardware,Critical,Resuelto,carlos mendoza,  ana andrea lópez benavides  ,29.09
+TCK-1243,2026-02-08 14:00:00,2026-02-09 17:00:00,Laptops / Equipos,Critical,Resuelto,Sofia Ramos,María Ana Correa,
+TCK-1244,2026-02-05 16:00:00,2026-02-07 04:00:00,Redes y Accesos,,Resuelto,Sofia Ramos,William Rincón Pinzón,0.0
+TCK-1245,2026-02-14 15:00:00,2026-02-15 13:00:00,Laptops / Equipos,Baja,CERRADO,carlos mendoza,Víctor León Medina Durán,366.04
+TCK-1246,2026-06-27 12:00:00,2026-06-28 19:00:00,Software,Media,CERRADO,Luis Gómez,Danilo Armando Sánchez,0.0
+TCK-1247,2026-03-18 12:00:00,2026-03-19 20:00:00,Redes y Accesos,ALTA,Resuelto,Luis Gómez,María Yolanda Ortega,0.0
+TCK-1248,2026-03-12 12:00:00,2026-03-13 23:00:00,Impresoras,ALTA,Cerrado,Luis Gómez,Carolina Pérez,0.0
+TCK-1249,2026-03-16 08:00:00,,SOFTWARE,Alta,En Proceso,Luis Gómez,Alejandro Duarte López,0.0
+TCK-1250,2026-05-03 11:00:00,2026-05-04 22:00:00,Redes y Accesos,Critical,Resuelto,carlos mendoza,José Rivera Calderón,0.0
+TCK-1251,2026-05-31 11:00:00,2026-05-31 15:00:00,SOFTWARE,Critical,Resuelto,Ana Torres,Francy Milena López Díaz,
+TCK-1252,2026-04-16 13:00:00,,Hardware,,Abierto,Ana Torres,  maría cano  ,284.17
+TCK-1253,2026-04-15 15:00:00,,SOFTWARE,Media,Abierto,Luis Gómez,Alejandra Deicy Díaz,0.0
+TCK-1254,2026-01-23 17:00:00,2026-01-25 04:00:00,SOFTWARE,,Resuelto,Carlos Mendoza,Enrique Luis Murillo Gallego,0.0
+TCK-1255,2026-02-15 08:00:00,,hardware,ALTA,Abierto,Ana Torres,Martha Fernanda Herrera Torres,481.82
+TCK-1256,2026-01-10 08:00:00,,Laptops / Equipos,Critical,En Proceso,Carlos Mendoza,Verónica Laura Castillo,180.82
+TCK-1257,2026-06-14 16:00:00,2026-06-16 00:00:00,Software,Critical,CERRADO,Sofia Ramos,Wilson Alberto Jaramillo,0.0
+TCK-1258,2026-03-26 10:00:00,,SOFTWARE,Baja,Abierto,carlos mendoza,  jorge bastidas  ,0.0
+TCK-1259,2026-03-17 17:00:00,2026-03-18 05:00:00,Laptops / Equipos,,Resuelto,Sofia Ramos,Nidia García Franco,
+TCK-1260,2026-06-21 09:00:00,2026-06-21 18:00:00,Impresoras,Baja,Resuelto,Ana Torres,  gregorio zapata  ,0.0
+TCK-1261,2026-04-25 12:00:00,,Redes y Accesos,Critical,En Proceso,carlos mendoza,Aura Gloria Correa,0.0
+TCK-1262,2026-04-03 11:00:00,2026-04-03 19:00:00,Impresoras,Baja,Cerrado,Ana Torres,Gabriel Uriel Andrade,0.0
+TCK-1263,2026-06-30 12:00:00,2026-07-01 07:00:00,Redes y Accesos,Critical,Cerrado,Ana Torres,Willian Lara,0.0
+TCK-1264,2026-02-09 15:00:00,2026-02-10 15:00:00,Impresoras,,CERRADO, Sin Asignar ,Daniela López,0.0
+TCK-1265,2026-06-20 11:00:00,2026-06-20 17:00:00,Laptops / Equipos,ALTA,Resuelto, Sin Asignar ,Fredy Jiménez,57.49
+TCK-1266,2026-01-16 16:00:00,2026-01-17 05:00:00,Laptops / Equipos,Critical,CERRADO,Ana Torres,  andrés angulo  ,430.15
+TCK-1267,2026-06-24 11:00:00,2026-06-25 19:00:00,Hardware,Critical,CERRADO,Sofia Ramos,Luz Bertha Toro Naranjo,237.65
+TCK-1268,2026-04-27 17:00:00,2026-04-29 05:00:00,Impresoras,,Cerrado,Luis Gómez,Manuel Andrey Gómez Cifuentes,0.0
+TCK-1269,2026-01-01 11:00:00,2026-01-01 16:00:00,Hardware,ALTA,CERRADO,Luis Gómez,Mario Portilla Correa,
+TCK-1270,2026-01-18 15:00:00,2026-01-19 10:00:00,Impresoras,Media,Cerrado,Ana Torres,David Bravo Rincón,0.0
+TCK-1271,2026-06-15 14:00:00,,Impresoras,ALTA,En Proceso,Sofia Ramos,Mercedes Esperanza Cruz Méndez,0.0
+TCK-1272,2026-06-19 16:00:00,2026-06-20 15:00:00,Hardware,Media,Resuelto, Sin Asignar ,Carlos Luis Suárez,81.13
+TCK-1273,2026-01-01 08:00:00,,Impresoras,,En Proceso,carlos mendoza,Luz Gladis Álvarez Castellanos,0.0
+TCK-1274,2026-02-28 11:00:00,,Redes y Accesos,Media,Abierto,Luis Gómez,  elkin ignacio triana arboleda  ,0.0
+TCK-1275,2026-01-29 08:00:00,,Laptops / Equipos,Alta,Abierto,Ana Torres,Óscar José López,
+TCK-1276,2026-06-03 08:00:00,2026-06-03 11:00:00,Impresoras,ALTA,Resuelto,Ana Torres,Juan Pedro Navarro,0.0
+TCK-1277,2026-01-15 10:00:00,2026-01-16 05:00:00,Software,,CERRADO, Sin Asignar ,Paulina Méndez Vergara,0.0
+TCK-1278,2026-06-22 13:00:00,2026-06-23 09:00:00,Software,,Resuelto, Sin Asignar ,María Tatiana Martínez,0.0
+TCK-1279,2026-01-16 16:00:00,2026-01-17 04:00:00,SOFTWARE,,CERRADO,Sofia Ramos,Juan Fabián Ospina,
+TCK-1280,2026-03-30 14:00:00,2026-03-31 11:00:00,SOFTWARE,ALTA,CERRADO,Sofia Ramos,  emilio marín  ,0.0
+TCK-1281,2026-05-18 15:00:00,2026-05-19 06:00:00,Redes y Accesos,,Resuelto,Ana Torres,Constanza Arroyo López,0.0
+TCK-1282,2026-05-24 14:00:00,,Laptops / Equipos,Critical,Abierto,Ana Torres,Julián Lozano,142.4
+TCK-1283,2026-01-21 15:00:00,,Hardware,Critical,En Proceso,carlos mendoza,Santiago Luis Rodríguez,44.74
+TCK-1284,2026-06-04 17:00:00,2026-06-04 22:00:00,Software,Critical,Cerrado,carlos mendoza,Edgar Alberto Arias,0.0
+TCK-1285,2026-02-23 13:00:00,,Hardware,Media,En Proceso,Ana Torres,Luis González,76.31
+TCK-1286,2026-05-03 11:00:00,2026-05-04 01:00:00,Impresoras,Media,CERRADO, Sin Asignar ,Andrés Morales,0.0
+TCK-1287,2026-04-30 16:00:00,,Redes y Accesos,Baja,En Proceso,Luis Gómez,Yadira Ramírez Quintero,0.0
+TCK-1288,2026-01-26 15:00:00,,Software,Baja,En Proceso,Luis Gómez,Ibeth Páez,0.0
+TCK-1289,2026-02-26 10:00:00,2026-02-27 03:00:00,Laptops / Equipos,Critical,Cerrado, Sin Asignar ,Luis Hernando Sanabria,161.69
+TCK-1290,2026-02-28 14:00:00,2026-03-01 06:00:00,Impresoras,Critical,CERRADO,carlos mendoza,Bryan Ruiz,0.0
+TCK-1291,2026-05-06 15:00:00,,Software,,Abierto,Luis Gómez,  josé triana rivera  ,0.0
+TCK-1292,2026-05-06 10:00:00,2026-05-06 14:00:00,Laptops / Equipos,Alta,CERRADO,Carlos Mendoza,Andrés Arturo Franco Martínez,340.74
+TCK-1293,2026-04-16 10:00:00,2026-04-16 15:00:00,SOFTWARE,Media,Resuelto,Carlos Mendoza,Anyi Ingrid Romero Quintero,0.0
+TCK-1294,2026-01-16 17:00:00,2026-01-18 00:00:00,SOFTWARE,ALTA,CERRADO,Carlos Mendoza,  maritza luz perdomo tovar  ,0.0
+TCK-1295,2026-01-04 08:00:00,2026-01-05 02:00:00,Laptops / Equipos,Baja,CERRADO,Carlos Mendoza,Armando Pacheco Bernal,354.97
+TCK-1296,2026-02-15 09:00:00,2026-02-16 19:00:00,Software,Media,Cerrado,Ana Torres,Jessica Muñoz,0.0
+TCK-1297,2026-04-01 12:00:00,,Hardware,Baja,Abierto,Sofia Ramos,Martha Ruiz,136.74
+TCK-1298,2026-03-18 09:00:00,2026-03-18 15:00:00,Impresoras,ALTA,Cerrado,Sofia Ramos,Yuly Ortiz,
+TCK-1299,2026-01-03 10:00:00,2026-01-04 18:00:00,hardware,ALTA,Cerrado,carlos mendoza,Fernanda Castillo Romero,291.61
+TCK-1300,2026-01-25 16:00:00,2026-01-26 07:00:00,Software,,Cerrado, Sin Asignar ,Cristina Gloria Salcedo Castaño,
+TCK-1301,2026-01-20 12:00:00,2026-01-20 15:00:00,Software,Baja,CERRADO,Carlos Mendoza,Luis Jhon Díaz,0.0
+TCK-1302,2026-04-12 09:00:00,,Software,Critical,En Proceso,Ana Torres,Diego Carlos Arévalo Martínez,0.0
+TCK-1303,2026-06-23 16:00:00,,Impresoras,,En Proceso,Ana Torres,Walter Medina,0.0
+TCK-1304,2026-01-21 16:00:00,,Hardware,Alta,En Proceso,Sofia Ramos,Jhoana Judith Quintero,56.49
+TCK-1305,2026-06-07 17:00:00,,hardware,Baja,Abierto,Carlos Mendoza,Lizeth Vanegas Polo,396.1
+TCK-1306,2026-02-28 13:00:00,2026-03-01 14:00:00,Impresoras,Media,CERRADO,carlos mendoza,Alberto Ballesteros,0.0
+TCK-1307,2026-06-08 12:00:00,2026-06-08 17:00:00,Hardware,Baja,Resuelto,Ana Torres,Ángela Yamile Torres,396.27
+TCK-1308,2026-04-10 13:00:00,,Hardware,Alta,En Proceso,Carlos Mendoza,Diego Alejandro García Cabrera,233.47
+TCK-1309,2026-01-27 10:00:00,2026-01-27 22:00:00,Impresoras,ALTA,Cerrado, Sin Asignar ,Ana Manuela Parra,0.0
+TCK-1310,2026-01-07 09:00:00,,Laptops / Equipos,Alta,En Proceso, Sin Asignar ,Marcela Velasco Agudelo,175.73
+TCK-1311,2026-03-16 14:00:00,,hardware,Alta,Abierto,carlos mendoza,Blanca Reyes Nieto,454.5
+TCK-1312,2026-05-27 16:00:00,2026-05-28 17:00:00,Software,Media,Resuelto,Luis Gómez,Carlos Jairo Álvarez,0.0
+TCK-1313,2026-01-17 10:00:00,,Redes y Accesos,ALTA,Abierto,Luis Gómez,Nancy Arrieta Duarte,
+TCK-1314,2026-03-06 11:00:00,,Laptops / Equipos,Critical,Abierto,Ana Torres,María María Garcés,
+TCK-1315,2026-04-12 13:00:00,2026-04-13 14:00:00,hardware,Baja,CERRADO,Sofia Ramos,Robinson Daniel Bermúdez Castro,411.43
+TCK-1316,2026-06-02 10:00:00,,Redes y Accesos,Critical,En Proceso,carlos mendoza,Doris María Arias González,0.0
+TCK-1317,2026-04-12 13:00:00,,SOFTWARE,,En Proceso,carlos mendoza,Germán Sarmiento,0.0
+TCK-1318,2026-03-04 13:00:00,,Redes y Accesos,ALTA,Abierto,Luis Gómez,  bernardo morales guzmán  ,0.0
+TCK-1319,2026-06-01 16:00:00,2026-06-03 04:00:00,Hardware,,Resuelto,Sofia Ramos,Silvia Márquez,120.63
+TCK-1320,2026-06-27 09:00:00,,SOFTWARE,ALTA,Abierto,Ana Torres,Constanza Cecilia Bedoya Guzmán,0.0
+TCK-1321,2026-06-18 10:00:00,,hardware,ALTA,Abierto,Carlos Mendoza,Lida Alzate Rangel,307.01
+TCK-1322,2026-05-17 16:00:00,,Laptops / Equipos,Alta,Abierto,Luis Gómez,Felipe Arias,409.9
+TCK-1323,2026-01-22 09:00:00,2026-01-23 08:00:00,Software,,Resuelto, Sin Asignar ,  josé ojeda  ,0.0
+TCK-1324,2026-06-23 14:00:00,,hardware,ALTA,En Proceso,Carlos Mendoza,  alfonso jorge vélez  ,144.19
+TCK-1325,2026-05-13 16:00:00,2026-05-14 07:00:00,Impresoras,Baja,CERRADO,Sofia Ramos,Luis Rodríguez Ríos,0.0
+TCK-1326,2026-06-26 16:00:00,2026-06-27 15:00:00,Hardware,ALTA,Resuelto,Carlos Mendoza,Alejandra Franco,
+TCK-1327,2026-02-06 13:00:00,,Redes y Accesos,ALTA,En Proceso,Ana Torres,Fernando Caro Parra,0.0
+TCK-1328,2026-01-25 15:00:00,,Redes y Accesos,Alta,Abierto,Luis Gómez,  damaris flor díaz parra  ,0.0
+TCK-1329,2026-01-06 13:00:00,2026-01-07 00:00:00,SOFTWARE,Media,Cerrado, Sin Asignar ,  luis molina mendoza  ,0.0
+TCK-1330,2026-05-24 14:00:00,,Software,ALTA,Abierto,carlos mendoza,  adriana ortiz  ,0.0
+TCK-1331,2026-04-21 14:00:00,2026-04-22 03:00:00,Impresoras,Critical,Cerrado,Sofia Ramos,Augusto Rendón,0.0
+TCK-1332,2026-02-22 12:00:00,2026-02-22 19:00:00,hardware,Critical,Cerrado,Ana Torres,María Rosa Salgado,114.6
+TCK-1333,2026-06-21 15:00:00,2026-06-22 12:00:00,Laptops / Equipos,ALTA,CERRADO, Sin Asignar ,Rubén Dario Muñoz Barbosa,74.83
+TCK-1334,2026-04-28 17:00:00,2026-04-29 13:00:00,Laptops / Equipos,Critical,Resuelto,Carlos Mendoza,Wilson Wilson Salazar,170.33
+TCK-1335,2026-01-30 10:00:00,,SOFTWARE,Media,En Proceso, Sin Asignar ,Lina Pinzón,0.0
+TCK-1336,2026-05-28 14:00:00,,Software,ALTA,Abierto,carlos mendoza,Manuel Óscar Gonzáles López,0.0
+TCK-1337,2026-02-14 16:00:00,2026-02-16 00:00:00,Redes y Accesos,Media,Resuelto,Ana Torres,Camilo Néstor Triana,0.0
+TCK-1338,2026-01-14 13:00:00,2026-01-15 21:00:00,Software,Media,Cerrado,Sofia Ramos,Judith Gonzáles,0.0
+TCK-1339,2026-05-07 14:00:00,,Impresoras,,Abierto,Sofia Ramos,Carmen Olga Álvarez,
+TCK-1340,2026-01-08 11:00:00,,Hardware,Baja,En Proceso,Ana Torres,Stella Valeria Romero,100.74
+TCK-1341,2026-05-07 16:00:00,2026-05-08 00:00:00,Laptops / Equipos,Alta,CERRADO,Luis Gómez,Sandra Álvarez,415.18
+TCK-1342,2026-01-11 15:00:00,2026-01-12 05:00:00,Impresoras,Alta,CERRADO,carlos mendoza,José Rodríguez,0.0
+TCK-1343,2026-03-18 08:00:00,,Redes y Accesos,Baja,Abierto,Carlos Mendoza,Stiven Luis Hernández Rivera,0.0
+TCK-1344,2026-03-02 11:00:00,2026-03-03 10:00:00,hardware,,CERRADO, Sin Asignar ,Juan Víctor Espinosa García,99.67
+TCK-1345,2026-02-22 11:00:00,2026-02-23 10:00:00,Laptops / Equipos,Baja,Cerrado, Sin Asignar ,Liliana Buitrago,175.35
+TCK-1346,2026-03-16 17:00:00,,hardware,Critical,En Proceso,carlos mendoza,Mauricio Alexander López Herrera,85.08
+TCK-1347,2026-04-16 08:00:00,,hardware,,En Proceso,Ana Torres,Claudia Carvajal Gonzáles,83.69
+TCK-1348,2026-03-24 11:00:00,,Impresoras,Media,Abierto, Sin Asignar ,Manuel Rentería,0.0
+TCK-1349,2026-04-07 15:00:00,2026-04-07 21:00:00,Impresoras,Critical,Cerrado,carlos mendoza,Alejandro Herrera,0.0
+TCK-1350,2026-04-05 15:00:00,,Redes y Accesos,Critical,Abierto,Carlos Mendoza,Vanessa Yolanda Gómez Angulo,0.0
+TCK-1351,2026-01-24 15:00:00,,hardware,Alta,En Proceso, Sin Asignar ,María Inés Corredor,484.7
+TCK-1352,2026-05-07 12:00:00,,hardware,Baja,En Proceso,Luis Gómez,Jesús Segundo Cifuentes Carmona,82.69
+TCK-1353,2026-03-29 08:00:00,2026-03-29 15:00:00,SOFTWARE,ALTA,Cerrado,Carlos Mendoza,  beatriz estela jiménez murcia  ,0.0
+TCK-1354,2026-04-23 15:00:00,2026-04-24 19:00:00,Software,,Cerrado,Ana Torres,José Vargas Puentes,0.0
+TCK-1355,2026-03-12 09:00:00,,Redes y Accesos,Alta,En Proceso,Luis Gómez,Andrés Pérez Gómez,0.0
+TCK-1356,2026-01-14 14:00:00,,SOFTWARE,,En Proceso,Ana Torres,Andrés Sierra Cardona,
+TCK-1357,2026-01-25 08:00:00,2026-01-26 15:00:00,Hardware,Media,Resuelto, Sin Asignar ,Nohora Luz Cardona Martínez,
+TCK-1358,2026-06-28 13:00:00,2026-06-29 17:00:00,SOFTWARE,Media,Cerrado,Sofia Ramos,  josé marín león  ,0.0
+TCK-1359,2026-01-27 09:00:00,,Redes y Accesos,Baja,En Proceso,Ana Torres,Clemencia María Pacheco Bonilla,0.0
+TCK-1360,2026-02-04 10:00:00,2026-02-05 20:00:00,Laptops / Equipos,Alta,Cerrado, Sin Asignar ,Diana Ordóñez Polo,231.25
+TCK-1361,2026-06-10 10:00:00,,Laptops / Equipos,,Abierto,Sofia Ramos,Amelia Esperanza Páez,61.61
+TCK-1362,2026-02-01 17:00:00,,Redes y Accesos,ALTA,Abierto,Luis Gómez,Andrés Sepúlveda,0.0
+TCK-1363,2026-06-15 09:00:00,2026-06-16 21:00:00,Laptops / Equipos,Critical,Resuelto,carlos mendoza,María Ester Valencia,393.91
+TCK-1364,2026-06-18 12:00:00,2026-06-19 22:00:00,Laptops / Equipos,Critical,Resuelto,Ana Torres,María García Muñoz,
+TCK-1365,2026-03-03 15:00:00,,Hardware,Media,Abierto,Sofia Ramos,Carolina Martha Salazar,54.09
+TCK-1366,2026-01-04 13:00:00,,Software,ALTA,En Proceso, Sin Asignar ,Luz Carolina Valencia,0.0
+TCK-1367,2026-02-14 15:00:00,2026-02-14 17:00:00,Laptops / Equipos,Alta,Cerrado,Carlos Mendoza,Heriberto Jaramillo Ruiz,
+TCK-1368,2026-04-12 16:00:00,,SOFTWARE,,En Proceso, Sin Asignar ,Alberto Chávez Serrano,0.0
+TCK-1369,2026-04-13 09:00:00,2026-04-14 20:00:00,Laptops / Equipos,Media,CERRADO,Luis Gómez,  evelio carlos rodríguez quintero  ,57.93
+TCK-1370,2026-02-09 16:00:00,,Impresoras,Critical,En Proceso,carlos mendoza,David Gabriel Restrepo,0.0
+TCK-1371,2026-06-14 09:00:00,,SOFTWARE,ALTA,En Proceso,carlos mendoza,Ángel Misael Vergara,0.0
+TCK-1372,2026-03-04 09:00:00,,Hardware,ALTA,Abierto, Sin Asignar ,María Claudia Ortiz,168.46
+TCK-1373,2026-02-14 09:00:00,2026-02-14 18:00:00,SOFTWARE,Alta,Cerrado,Ana Torres,Pablo Johnny Ramírez,0.0
+TCK-1374,2026-05-13 12:00:00,2026-05-14 12:00:00,Software,,Resuelto,Luis Gómez,Sebastián Espitia García,0.0
+TCK-1375,2026-01-08 13:00:00,,Redes y Accesos,Critical,Abierto,Carlos Mendoza,Sofía Anaya Valencia,0.0
+TCK-1376,2026-06-10 09:00:00,,Impresoras,Critical,Abierto,Luis Gómez,  enrique orozco gómez  ,0.0
+TCK-1377,2026-02-12 13:00:00,2026-02-13 06:00:00,hardware,Alta,Resuelto, Sin Asignar ,Felipe Rodríguez Villegas,75.36
+TCK-1378,2026-01-01 08:00:00,2026-01-02 00:00:00,Hardware,ALTA,Cerrado,Luis Gómez,Ronal Rodrigo Angulo Arévalo,92.04
+TCK-1379,2026-01-10 16:00:00,,Software,Baja,Abierto,Ana Torres,Marcela Torres,0.0
+TCK-1380,2026-03-11 09:00:00,2026-03-12 09:00:00,Hardware,Critical,CERRADO,carlos mendoza,María Muñoz,106.09
+TCK-1381,2026-01-12 14:00:00,2026-01-13 20:00:00,hardware,Baja,Cerrado,Luis Gómez,Luisa Osorio,
+TCK-1382,2026-02-21 12:00:00,2026-02-22 08:00:00,SOFTWARE,Critical,CERRADO,Ana Torres,Diego José Rojas,0.0
+TCK-1383,2026-05-07 11:00:00,2026-05-08 03:00:00,Software,Alta,CERRADO,Sofia Ramos,  alfredo néstor muñoz pérez  ,0.0
+TCK-1384,2026-06-12 08:00:00,,Hardware,,En Proceso,Sofia Ramos,María Molina Gaitán,369.06
+TCK-1385,2026-05-16 11:00:00,,Impresoras,Alta,Abierto,Ana Torres,Mario Wilson Ayala,
+TCK-1386,2026-03-01 16:00:00,,SOFTWARE,Baja,Abierto,Sofia Ramos,Leidy García Montes,
+TCK-1387,2026-01-25 16:00:00,2026-01-26 18:00:00,Hardware,Critical,Resuelto, Sin Asignar ,  sergio álvaro díaz díaz  ,337.97
+TCK-1388,2026-03-16 12:00:00,,hardware,ALTA,En Proceso,carlos mendoza,Cristina Soto Torres,176.6
+TCK-1389,2026-03-01 09:00:00,2026-03-01 18:00:00,hardware,Critical,Resuelto,Carlos Mendoza,  fernanda marcela méndez leal  ,98.9
+TCK-1390,2026-04-15 09:00:00,2026-04-16 08:00:00,hardware,Media,CERRADO,Sofia Ramos,Jesús Vera Pardo,147.2
+TCK-1391,2026-02-10 12:00:00,2026-02-10 15:00:00,Software,Baja,CERRADO,Ana Torres,  gildardo moreno castañeda  ,0.0
+TCK-1392,2026-04-02 14:00:00,2026-04-02 18:00:00,SOFTWARE,Baja,CERRADO,Luis Gómez,Carlos Luis Murcia,0.0
+TCK-1393,2026-04-14 15:00:00,2026-04-16 03:00:00,Software,Alta,CERRADO,Sofia Ramos,  catalina angulo pérez  ,0.0
+TCK-1394,2026-02-01 08:00:00,2026-02-01 23:00:00,Software,Media,Cerrado,Sofia Ramos,Kevin Danny Mosquera García,0.0
+TCK-1395,2026-06-15 09:00:00,2026-06-16 02:00:00,hardware,Alta,CERRADO,Carlos Mendoza,Pablo Muñoz González,114.92
+TCK-1396,2026-02-02 09:00:00,,Hardware,Alta,En Proceso,Sofia Ramos,  maría elizabeth vásquez  ,463.58
+TCK-1397,2026-04-12 15:00:00,2026-04-13 16:00:00,SOFTWARE,ALTA,Cerrado,Ana Torres,José Luis Rodríguez,0.0
+TCK-1398,2026-03-12 12:00:00,,Software,Alta,Abierto, Sin Asignar ,Omar Santos Castrillón,0.0
+TCK-1399,2026-03-17 15:00:00,,Laptops / Equipos,ALTA,Abierto,Carlos Mendoza,  eduardo prada  ,203.85
+TCK-1400,2026-06-14 16:00:00,2026-06-16 03:00:00,hardware,Alta,Resuelto,Sofia Ramos,Antonio Bustamante Monsalve,192.37
+TCK-1401,2026-05-05 13:00:00,2026-05-06 22:00:00,Redes y Accesos,ALTA,CERRADO,Luis Gómez,  joan santiago osorio rodríguez  ,0.0
+TCK-1402,2026-02-26 08:00:00,,Hardware,ALTA,En Proceso, Sin Asignar ,José Ayala,300.31
+TCK-1403,2026-02-10 09:00:00,2026-02-11 01:00:00,Redes y Accesos,Critical,Resuelto,carlos mendoza,  socorro elsa sierra  ,0.0
+TCK-1404,2026-02-26 17:00:00,,Redes y Accesos,Media,Abierto,Ana Torres,Andrés Alzate,0.0
+TCK-1405,2026-06-28 13:00:00,2026-06-28 15:00:00,SOFTWARE,,CERRADO,Luis Gómez,Victoria Bustos López,0.0
+TCK-1406,2026-05-25 11:00:00,,Laptops / Equipos,Baja,Abierto,Ana Torres,Stiven Jiménez,63.32
+TCK-1407,2026-02-26 08:00:00,2026-02-27 15:00:00,Hardware,Baja,CERRADO, Sin Asignar ,William Bolívar Torres,82.63
+TCK-1408,2026-03-24 08:00:00,2026-03-24 18:00:00,Laptops / Equipos,,Cerrado,Ana Torres,John Carvajal Castillo,426.31
+TCK-1409,2026-01-19 13:00:00,,Laptops / Equipos,Alta,Abierto,Luis Gómez,Laura Karen Murillo,85.5
+TCK-1410,2026-04-22 15:00:00,,Software,,En Proceso, Sin Asignar ,Adalberto Gregorio Martínez,0.0
+TCK-1411,2026-04-02 11:00:00,2026-04-02 23:00:00,Impresoras,Baja,CERRADO,carlos mendoza,María Stella Montes Camacho,0.0
+TCK-1412,2026-01-01 17:00:00,,hardware,Critical,Abierto,Carlos Mendoza,  ángel vega  ,172.74
+TCK-1413,2026-06-06 11:00:00,2026-06-06 18:00:00,Impresoras,Media,CERRADO,Luis Gómez,José Carlos Reyes Castro,0.0
+TCK-1414,2026-03-23 10:00:00,2026-03-24 08:00:00,Impresoras,Alta,Cerrado,Luis Gómez,Andrey Andrés Lara Vargas,0.0
+TCK-1415,2026-03-31 12:00:00,2026-03-31 13:00:00,Hardware,ALTA,Cerrado,Sofia Ramos,Bladimir Bastidas,485.17
+TCK-1416,2026-05-07 14:00:00,,Laptops / Equipos,ALTA,En Proceso,Carlos Mendoza,Luis Montoya González,398.59
+TCK-1417,2026-06-25 11:00:00,2026-06-26 16:00:00,Hardware,Alta,Resuelto,Luis Gómez,  josé jiménez alfonso  ,145.34
+TCK-1418,2026-03-29 10:00:00,,Software,,Abierto,Carlos Mendoza,Henry Eduardo Jiménez Sánchez,0.0
+TCK-1419,2026-01-24 13:00:00,2026-01-25 20:00:00,SOFTWARE,Alta,CERRADO,Sofia Ramos,Luz Quintero Parra,0.0
+TCK-1420,2026-04-22 10:00:00,2026-04-22 17:00:00,Redes y Accesos,Media,Cerrado,Ana Torres,Kelly Aguirre,0.0
+TCK-1421,2026-05-19 12:00:00,,Redes y Accesos,Media,En Proceso,Carlos Mendoza,  carlos mosquera díaz  ,0.0
+TCK-1422,2026-05-06 10:00:00,2026-05-07 10:00:00,Hardware,ALTA,Cerrado,Carlos Mendoza,Claudia Rueda,337.77
+TCK-1423,2026-02-21 09:00:00,2026-02-21 23:00:00,Software,,Cerrado,Luis Gómez,Diana Fanny Monroy,0.0
+TCK-1424,2026-01-30 12:00:00,,Impresoras,ALTA,Abierto,carlos mendoza,Eliecer Enrique Ramírez Delgado,0.0
+TCK-1425,2026-04-10 10:00:00,,Impresoras,Baja,En Proceso,Ana Torres,Laura Muñoz,0.0
+TCK-1426,2026-04-30 12:00:00,2026-05-01 06:00:00,Laptops / Equipos,Alta,Resuelto,Ana Torres,Tania Emma Ramírez,
+TCK-1427,2026-03-30 16:00:00,,hardware,Critical,Abierto,Ana Torres,María Carolina Quintero Lozano,423.58
+TCK-1428,2026-04-18 16:00:00,,Laptops / Equipos,Media,Abierto,Sofia Ramos,Alba Gil Caicedo,209.51
+TCK-1429,2026-01-09 16:00:00,2026-01-11 02:00:00,hardware,Critical,CERRADO,carlos mendoza,Sandra Sofía Rueda,90.77
+TCK-1430,2026-04-25 10:00:00,2026-04-26 00:00:00,hardware,Media,Resuelto,Ana Torres,  jaime jiménez  ,57.62
+TCK-1431,2026-02-21 10:00:00,2026-02-22 03:00:00,Redes y Accesos,,CERRADO,Carlos Mendoza,  vanesa maría montoya  ,0.0
+TCK-1432,2026-05-22 13:00:00,,Laptops / Equipos,ALTA,En Proceso,Carlos Mendoza,Luis Marín,319.07
+TCK-1433,2026-04-18 09:00:00,,Software,Media,Abierto, Sin Asignar ,Teresa Zapata,0.0
+TCK-1434,2026-01-26 09:00:00,2026-01-26 16:00:00,hardware,Baja,CERRADO, Sin Asignar ,Andrés Héctor Vera González,441.39
+TCK-1435,2026-06-17 15:00:00,2026-06-18 22:00:00,Hardware,Media,CERRADO,Luis Gómez,Saúl Antonio García Ortiz,316.76
+TCK-1436,2026-04-13 08:00:00,,Redes y Accesos,,Abierto,Ana Torres,  fernando rojas  ,0.0
+TCK-1437,2026-03-10 13:00:00,2026-03-11 11:00:00,hardware,Baja,Cerrado,Luis Gómez,Ricardo Alfonso Díaz Ruiz,255.98
+TCK-1438,2026-01-26 11:00:00,2026-01-27 07:00:00,SOFTWARE,ALTA,Resuelto,Luis Gómez,Vanessa Esperanza Rangel,0.0
+TCK-1439,2026-06-15 09:00:00,2026-06-16 14:00:00,Software,ALTA,Resuelto,carlos mendoza,Diego Ramírez,0.0
+TCK-1440,2026-04-06 08:00:00,2026-04-06 19:00:00,Hardware,Baja,CERRADO,carlos mendoza,Juliana Johana Fernández Aguirre,85.11
+TCK-1441,2026-05-26 08:00:00,2026-05-26 21:00:00,hardware,Media,Resuelto,Carlos Mendoza,Ernesto Flórez,239.1
+TCK-1442,2026-06-30 11:00:00,,Redes y Accesos,ALTA,En Proceso, Sin Asignar ,Andrés Mora Rivera,0.0
+TCK-1443,2026-06-24 08:00:00,2026-06-25 08:00:00,Impresoras,Critical,Resuelto,Sofia Ramos,  david polo  ,0.0
+TCK-1444,2026-05-31 16:00:00,,Redes y Accesos,Media,En Proceso,Luis Gómez,Fernando Raúl Reyes Hernández,0.0
+TCK-1445,2026-03-14 08:00:00,,Hardware,Media,Abierto, Sin Asignar ,Yeny Herrera,122.87
+TCK-1446,2026-02-27 11:00:00,,SOFTWARE,ALTA,En Proceso, Sin Asignar ,  yéssica maría muñoz  ,0.0
+TCK-1447,2026-06-24 08:00:00,,Software,,Abierto,Ana Torres,Karol Rodríguez,
+TCK-1448,2026-03-06 17:00:00,,SOFTWARE,,En Proceso,carlos mendoza,María Melissa Herrera López,0.0
+TCK-1449,2026-03-31 15:00:00,,Software,ALTA,En Proceso,Luis Gómez,Gladys Nayibe Parra Contreras,0.0
+TCK-1450,2026-04-12 17:00:00,2026-04-12 18:00:00,Laptops / Equipos,,Cerrado,Luis Gómez,Judith Diana Peña Hernández,305.01
+TCK-1451,2026-06-25 09:00:00,,Hardware,Baja,Abierto,Luis Gómez,Antonio Ortiz Méndez,433.52
+TCK-1452,2026-06-16 12:00:00,2026-06-16 22:00:00,Laptops / Equipos,Media,Resuelto,Carlos Mendoza,Jaime Fabio Díaz,405.13
+TCK-1453,2026-06-19 13:00:00,2026-06-19 15:00:00,SOFTWARE,ALTA,Resuelto,Luis Gómez,Ofelia Márquez,0.0
+TCK-1454,2026-04-10 08:00:00,2026-04-10 21:00:00,Redes y Accesos,,CERRADO,carlos mendoza,Ángela Montenegro Ruiz,0.0
+TCK-1455,2026-05-02 13:00:00,2026-05-03 09:00:00,hardware,Media,CERRADO,carlos mendoza,John Libardo Martínez,
+TCK-1456,2026-02-02 12:00:00,2026-02-03 00:00:00,SOFTWARE,Baja,CERRADO,carlos mendoza,  simón ernesto gómez mosquera  ,0.0
+TCK-1457,2026-03-20 14:00:00,,Redes y Accesos,Baja,En Proceso, Sin Asignar ,Flor Mónica Romero,0.0
+TCK-1458,2026-05-01 08:00:00,2026-05-01 13:00:00,Impresoras,Media,CERRADO, Sin Asignar ,  luz benavides  ,0.0
+TCK-1459,2026-05-16 12:00:00,,Hardware,Media,Abierto,Ana Torres,Catalina Marlene Montes Vega,184.48
+TCK-1460,2026-04-28 10:00:00,,hardware,,En Proceso,Ana Torres,Katherine Estrada Romero,254.04
+TCK-1461,2026-02-15 13:00:00,2026-02-15 14:00:00,Impresoras,Baja,Cerrado,Ana Torres,Eider Ardila Jiménez,0.0
+TCK-1462,2026-02-10 15:00:00,2026-02-11 00:00:00,Laptops / Equipos,ALTA,Cerrado,carlos mendoza,Liliana Martínez,225.93
+TCK-1463,2026-01-02 08:00:00,2026-01-02 21:00:00,SOFTWARE,Baja,CERRADO,Carlos Mendoza,Camila Janeth Ortiz,0.0
+TCK-1464,2026-05-16 11:00:00,2026-05-16 12:00:00,SOFTWARE,,Cerrado,Ana Torres,Rosa Martha Sanabria,0.0
+TCK-1465,2026-03-21 10:00:00,2026-03-22 11:00:00,Laptops / Equipos,Critical,Cerrado,Luis Gómez,  anyi yuliana gaitán gonzález  ,415.45
+TCK-1466,2026-03-16 15:00:00,2026-03-18 01:00:00,Redes y Accesos,ALTA,CERRADO,carlos mendoza,Carlos Jhon Cifuentes Rodríguez,0.0
+TCK-1467,2026-05-06 13:00:00,2026-05-07 00:00:00,hardware,ALTA,Resuelto,Carlos Mendoza,Javier García Cardona,369.04
+TCK-1468,2026-01-06 17:00:00,2026-01-07 04:00:00,Hardware,Baja,CERRADO,carlos mendoza,María Martha Cárdenas Polo,37.93
+TCK-1469,2026-03-07 16:00:00,2026-03-07 20:00:00,Laptops / Equipos,Alta,CERRADO,carlos mendoza,  marina claudia solano  ,
+TCK-1470,2026-01-30 14:00:00,,Impresoras,Alta,Abierto, Sin Asignar ,María Blanca Rodríguez Quintero,0.0
+TCK-1471,2026-02-22 08:00:00,,Impresoras,,En Proceso,Carlos Mendoza,Elizabeth Pineda,0.0
+TCK-1472,2026-06-05 10:00:00,,hardware,Alta,Abierto, Sin Asignar ,Pablo López Ruiz,76.51
+TCK-1473,2026-01-28 15:00:00,2026-01-29 04:00:00,hardware,Baja,Resuelto, Sin Asignar ,Ruth Rueda,191.8
+TCK-1474,2026-02-11 08:00:00,2026-02-12 16:00:00,Software,,CERRADO,Sofia Ramos,Fernanda Soto,
+TCK-1475,2026-06-21 09:00:00,2026-06-22 17:00:00,Software,Alta,Cerrado, Sin Asignar ,  andrea daniela ramírez  ,0.0
+TCK-1476,2026-03-07 11:00:00,,Redes y Accesos,Baja,Abierto,Sofia Ramos,  alexander juan velandia palacios  ,0.0
+TCK-1477,2026-01-11 12:00:00,,hardware,,En Proceso,Luis Gómez,Luz Restrepo Triana,75.63
+TCK-1478,2026-01-12 08:00:00,2026-01-12 19:00:00,Redes y Accesos,Baja,Resuelto,Sofia Ramos,Nelson Guzmán,0.0
+TCK-1479,2026-01-24 13:00:00,,Software,Alta,En Proceso,Sofia Ramos,Carlos Junior Bermúdez,0.0
+TCK-1480,2026-04-09 15:00:00,,SOFTWARE,Media,Abierto,Carlos Mendoza,  josé camilo espinosa  ,0.0
+TCK-1481,2026-02-10 09:00:00,,Laptops / Equipos,ALTA,Abierto, Sin Asignar ,Luis Aurelio Sierra,107.01
+TCK-1482,2026-04-02 17:00:00,2026-04-03 02:00:00,Impresoras,ALTA,Cerrado,Carlos Mendoza,Karina Domínguez,0.0
+TCK-1483,2026-01-17 12:00:00,,Hardware,,En Proceso,carlos mendoza,Erika Gladys Rueda Burbano,376.94
+TCK-1484,2026-02-27 13:00:00,2026-02-28 23:00:00,SOFTWARE,,CERRADO, Sin Asignar ,  alonso rafael henao  ,0.0
+TCK-1485,2026-03-05 15:00:00,,SOFTWARE,,En Proceso,carlos mendoza,Leidy Alcira Giraldo,0.0
+TCK-1486,2026-05-23 17:00:00,2026-05-23 18:00:00,SOFTWARE,Media,Cerrado, Sin Asignar ,Patricia Iris Bolívar Arias,0.0
+TCK-1487,2026-02-12 09:00:00,,Redes y Accesos,Media,Abierto,Luis Gómez,Luis Fernando Bautista,
+TCK-1488,2026-02-27 16:00:00,,Impresoras,Media,Abierto,Carlos Mendoza,Iván Rivas,0.0
+TCK-1489,2026-04-25 09:00:00,,Impresoras,Baja,Abierto,Carlos Mendoza,Andrés Pablo Reyes,0.0
+TCK-1490,2026-01-05 09:00:00,,Impresoras,Alta,Abierto, Sin Asignar ,Javier David González,0.0
+TCK-1491,2026-06-04 17:00:00,,Laptops / Equipos,Critical,En Proceso,Ana Torres,Fabián González,238.98
+TCK-1492,2026-01-14 11:00:00,,Redes y Accesos,Critical,Abierto, Sin Asignar ,Olga Gutiérrez Rivera,0.0
+TCK-1493,2026-04-04 15:00:00,2026-04-04 22:00:00,hardware,,Cerrado,Ana Torres,  jhoan fernando álvarez  ,190.47
+TCK-1494,2026-03-16 16:00:00,2026-03-17 16:00:00,SOFTWARE,Alta,CERRADO,Carlos Mendoza,Henry Alonso Torres,0.0
+TCK-1495,2026-04-15 09:00:00,,Laptops / Equipos,Media,En Proceso,Ana Torres,  tulio valencia acosta  ,429.05
+TCK-1496,2026-02-18 13:00:00,2026-02-19 16:00:00,Hardware,,Cerrado,carlos mendoza,María Martínez,390.63
+TCK-1497,2026-06-18 17:00:00,2026-06-19 02:00:00,Impresoras,Alta,CERRADO, Sin Asignar ,Cecilia Flor Guerrero González,0.0
+TCK-1498,2026-04-21 17:00:00,,Laptops / Equipos,Media,Abierto,carlos mendoza,Zoraida Ortega Gómez,370.64
+TCK-1499,2026-04-10 17:00:00,2026-04-11 14:00:00,Laptops / Equipos,ALTA,CERRADO,Sofia Ramos,Yésica Lucía Mesa Vásquez,459.64
+TCK-1500,2026-03-12 14:00:00,,Redes y Accesos,ALTA,En Proceso,Ana Torres,  marcela escobar cáceres  ,0.0
+TCK-1501,2026-05-12 12:00:00,2026-05-13 09:00:00,SOFTWARE,,CERRADO, Sin Asignar ,Isabel Cristina Garzón,0.0
+TCK-1502,2026-06-09 12:00:00,,SOFTWARE,Media,En Proceso,carlos mendoza,Marcela Medina Gómez,0.0
+TCK-1503,2026-05-09 16:00:00,,SOFTWARE,Alta,En Proceso,Luis Gómez,Manuel Cardona,0.0
+TCK-1504,2026-06-20 14:00:00,2026-06-21 09:00:00,hardware,ALTA,CERRADO,Carlos Mendoza,Ricardo Morales Restrepo,32.13
+TCK-1505,2026-06-21 08:00:00,2026-06-22 02:00:00,hardware,Media,Resuelto,Luis Gómez,Cristian Francisco Rodríguez,
+TCK-1506,2026-03-17 11:00:00,2026-03-17 14:00:00,Redes y Accesos,ALTA,CERRADO,Carlos Mendoza,Luis Ortiz,0.0
+TCK-1507,2026-05-24 11:00:00,2026-05-25 12:00:00,Software,Critical,CERRADO,carlos mendoza,Daniela Luz Castañeda López,0.0
+TCK-1508,2026-04-08 14:00:00,,hardware,,Abierto,Luis Gómez,Bladimir Ospina Giraldo,45.83
+TCK-1509,2026-02-21 17:00:00,,hardware,Media,Abierto,carlos mendoza,Mireya Rivera,330.86
+TCK-1510,2026-05-20 17:00:00,2026-05-21 06:00:00,Redes y Accesos,ALTA,Resuelto,Ana Torres,Andrés Guillermo Sánchez,
+TCK-1511,2026-02-14 16:00:00,2026-02-15 17:00:00,Hardware,ALTA,Cerrado,Luis Gómez,José Garzón Bernal,82.43
+TCK-1512,2026-03-07 08:00:00,,Impresoras,,En Proceso,Ana Torres,  yesenia lópez padilla  ,0.0
+TCK-1513,2026-06-02 08:00:00,2026-06-03 04:00:00,Impresoras,Critical,CERRADO, Sin Asignar ,Hernán González Ortiz,0.0
+TCK-1514,2026-03-23 16:00:00,2026-03-24 04:00:00,Laptops / Equipos,Alta,Resuelto, Sin Asignar ,  jackeline claudia reyes  ,280.68
+TCK-1515,2026-03-31 11:00:00,2026-04-01 09:00:00,Redes y Accesos,Baja,Resuelto,Luis Gómez,Alberto Morales Rodríguez,0.0
+TCK-1516,2026-05-16 15:00:00,2026-05-16 16:00:00,Hardware,,CERRADO,Luis Gómez,Mónica Beatriz Bautista Ospina,454.16
+TCK-1517,2026-06-09 11:00:00,2026-06-10 08:00:00,Impresoras,Alta,Cerrado,Sofia Ramos,Diana Cindy Pérez,0.0
+TCK-1518,2026-01-07 16:00:00,,Laptops / Equipos,Critical,En Proceso,Sofia Ramos,Nicolás Fabián Cano Burbano,162.29
+TCK-1519,2026-03-24 16:00:00,2026-03-24 23:00:00,Software,Critical,Cerrado, Sin Asignar ,  margarita gladys lópez garcía  ,
+TCK-1520,2026-06-21 11:00:00,,hardware,Alta,Abierto,Ana Torres,Adrián Contreras García,357.32
+TCK-1521,2026-04-22 09:00:00,2026-04-22 11:00:00,Impresoras,,Resuelto,Luis Gómez,  armando giraldo sierra  ,
+TCK-1522,2026-02-15 12:00:00,2026-02-15 17:00:00,Laptops / Equipos,Media,CERRADO,Luis Gómez,Elmer Ángel Calderón,236.54
+TCK-1523,2026-03-22 08:00:00,,SOFTWARE,Alta,Abierto, Sin Asignar ,  roberto rubén fajardo  ,0.0
+TCK-1524,2026-01-17 17:00:00,2026-01-17 22:00:00,Redes y Accesos,Critical,Cerrado,Carlos Mendoza,Alejandra María Moreno,0.0
+TCK-1525,2026-06-05 09:00:00,,hardware,ALTA,En Proceso,Sofia Ramos,Aura Yina Muñoz,337.15
+TCK-1526,2026-05-17 11:00:00,2026-05-18 13:00:00,hardware,Critical,Resuelto,Luis Gómez,Hilda Yolanda Moreno Sánchez,89.16
+TCK-1527,2026-06-15 13:00:00,2026-06-17 01:00:00,hardware,Critical,Cerrado,Ana Torres,  maría maría lópez hernández  ,22.41
+TCK-1528,2026-05-18 16:00:00,2026-05-19 12:00:00,Software,,Cerrado,carlos mendoza,Diego Londoño Gómez,0.0
+TCK-1529,2026-04-16 16:00:00,2026-04-17 03:00:00,Software,Media,Resuelto, Sin Asignar ,Enrique Andrés Alzate Castillo,0.0
+TCK-1530,2026-02-16 17:00:00,2026-02-18 05:00:00,Impresoras,,Cerrado, Sin Asignar ,  laura maría martínez  ,0.0
+TCK-1531,2026-03-06 09:00:00,2026-03-07 17:00:00,Redes y Accesos,Baja,Resuelto,Ana Torres,Mary Fernanda Delgado Contreras,0.0
+TCK-1532,2026-03-14 17:00:00,2026-03-15 06:00:00,Redes y Accesos,ALTA,Cerrado,Sofia Ramos,Javier Ariel Mora Guerra,0.0
+TCK-1533,2026-06-27 17:00:00,2026-06-28 17:00:00,hardware,Baja,Resuelto,Sofia Ramos,  lady hernández tovar  ,170.34
+TCK-1534,2026-06-14 14:00:00,,hardware,Baja,En Proceso,Ana Torres,Ester Luz García Trujillo,179.15
+TCK-1535,2026-04-25 13:00:00,,Impresoras,Critical,En Proceso,Carlos Mendoza,  mireya cecilia acevedo  ,0.0
+TCK-1536,2026-03-13 10:00:00,2026-03-13 23:00:00,Redes y Accesos,,CERRADO,carlos mendoza,  juan andrés díaz  ,
+TCK-1537,2026-01-05 16:00:00,2026-01-06 18:00:00,hardware,Critical,Cerrado,Ana Torres,Rafael Orjuela,284.77
+TCK-1538,2026-05-19 15:00:00,2026-05-20 15:00:00,Impresoras,Media,Resuelto, Sin Asignar ,Juan Pérez,0.0
+TCK-1539,2026-04-29 16:00:00,2026-04-29 22:00:00,Impresoras,Baja,CERRADO, Sin Asignar ,  carlos luis camacho arboleda  ,0.0
+TCK-1540,2026-06-07 10:00:00,2026-06-07 19:00:00,Impresoras,Media,CERRADO,Ana Torres,Carmen Esther Arias Rojas,0.0
+TCK-1541,2026-02-07 15:00:00,,Hardware,Media,En Proceso,Sofia Ramos,Carlos Álvarez,146.89
+TCK-1542,2026-06-21 11:00:00,2026-06-22 11:00:00,Impresoras,ALTA,CERRADO,Sofia Ramos,Esneider Mejía Palacios,
+TCK-1543,2026-06-16 13:00:00,2026-06-17 23:00:00,SOFTWARE,Baja,Cerrado,carlos mendoza,Yésica Romero Vanegas,0.0
+TCK-1544,2026-02-14 14:00:00,,Redes y Accesos,Critical,Abierto,carlos mendoza,Mery Consuelo Arango Rojas,
+TCK-1545,2026-03-06 14:00:00,2026-03-08 00:00:00,Impresoras,Baja,Resuelto,Luis Gómez,Augusto Mosquera Vega,0.0
+TCK-1546,2026-06-04 08:00:00,2026-06-04 17:00:00,Impresoras,Media,CERRADO,Ana Torres,  javier milton córdoba sandoval  ,0.0
+TCK-1547,2026-02-24 10:00:00,2026-02-24 21:00:00,Redes y Accesos,Critical,Resuelto,carlos mendoza,Carlos Gabriel Bonilla Palacios,0.0
+TCK-1548,2026-04-17 13:00:00,2026-04-18 20:00:00,SOFTWARE,ALTA,Cerrado,Sofia Ramos,Yolanda Gutiérrez,0.0
+TCK-1549,2026-04-16 08:00:00,2026-04-16 11:00:00,Software,Critical,Resuelto, Sin Asignar ,  lisbeth kelly arias  ,0.0
+TCK-1550,2026-01-11 17:00:00,2026-01-11 21:00:00,Software,Baja,Resuelto,Ana Torres,Orlando Enrique Vélez Mejía,0.0
+TCK-1551,2026-05-25 08:00:00,,Hardware,Media,En Proceso,Sofia Ramos,Lorena María Tamayo,246.28
+TCK-1552,2026-02-26 14:00:00,2026-02-27 00:00:00,hardware,Critical,CERRADO,Ana Torres,Marcos Castro Martínez,265.19
+TCK-1553,2026-06-25 13:00:00,,Laptops / Equipos,Critical,Abierto,Carlos Mendoza,Laura Vanessa Duarte Lozano,205.02
+TCK-1554,2026-02-21 16:00:00,2026-02-22 19:00:00,hardware,Media,CERRADO, Sin Asignar ,  stiven guillermo morales  ,248.42
+TCK-1555,2026-01-10 16:00:00,2026-01-11 00:00:00,Hardware,ALTA,CERRADO,carlos mendoza,  andrés fredy romero quiroga  ,309.67
+TCK-1556,2026-06-23 14:00:00,2026-06-24 17:00:00,Redes y Accesos,Alta,CERRADO,carlos mendoza,Luis Salcedo Palacios,0.0
+TCK-1557,2026-05-04 14:00:00,,Laptops / Equipos,,En Proceso,carlos mendoza,Nelson Jairo Torres Ospina,224.23
+TCK-1558,2026-03-01 09:00:00,,Laptops / Equipos,Critical,En Proceso,Sofia Ramos,Jorge Torres,22.63
+TCK-1559,2026-01-02 17:00:00,2026-01-03 01:00:00,Laptops / Equipos,Alta,CERRADO,Sofia Ramos,Antonio Antonio Guerrero Gómez,350.13
+TCK-1560,2026-04-03 09:00:00,2026-04-04 13:00:00,SOFTWARE,Critical,Resuelto,Luis Gómez,Álvaro Alexander Mora,0.0
+TCK-1561,2026-05-25 13:00:00,2026-05-26 07:00:00,SOFTWARE,ALTA,CERRADO,Ana Torres,Edwin Manuel Cruz Quintero,0.0
+TCK-1562,2026-05-04 10:00:00,,Laptops / Equipos,Critical,En Proceso,Sofia Ramos,Julián Jair Forero,167.19
+TCK-1563,2026-06-30 14:00:00,2026-06-30 22:00:00,SOFTWARE,Media,Resuelto,Sofia Ramos,Marcela Alba Córdoba Calderón,0.0
+TCK-1564,2026-01-26 11:00:00,2026-01-27 13:00:00,hardware,Baja,CERRADO, Sin Asignar ,Sandra María Torres Ramírez,
+TCK-1565,2026-04-10 08:00:00,2026-04-10 18:00:00,Impresoras,Critical,Cerrado,Sofia Ramos,  ignacio luis páez  ,0.0
+TCK-1566,2026-04-05 09:00:00,2026-04-05 12:00:00,SOFTWARE,ALTA,CERRADO,Sofia Ramos,Manuel Londoño Herrera,0.0
+TCK-1567,2026-06-02 08:00:00,2026-06-03 16:00:00,Impresoras,Alta,Resuelto,Ana Torres,Carmen Clara Gutiérrez,0.0
+TCK-1568,2026-05-13 12:00:00,2026-05-13 15:00:00,hardware,Critical,Resuelto, Sin Asignar ,Sandra Rodríguez,131.2
+TCK-1569,2026-01-10 13:00:00,2026-01-10 14:00:00,Software,Alta,Resuelto,Luis Gómez,Andrés Óscar Morales Herrera,0.0
+TCK-1570,2026-04-12 14:00:00,2026-04-13 03:00:00,Laptops / Equipos,Alta,CERRADO,carlos mendoza,Andrés Gonzalo Galvis,461.21
+TCK-1571,2026-05-24 17:00:00,,Redes y Accesos,Baja,En Proceso,Ana Torres,Andrea Martínez,0.0
+TCK-1572,2026-04-14 17:00:00,2026-04-15 10:00:00,Software,ALTA,Cerrado, Sin Asignar ,  cecilia xiomara vélez yepes  ,
+TCK-1573,2026-03-17 13:00:00,2026-03-18 22:00:00,Redes y Accesos,Critical,Cerrado, Sin Asignar ,Nelly Elsa García Camacho,0.0
+TCK-1574,2026-04-07 17:00:00,,hardware,Media,Abierto,Luis Gómez,Antonio Fernando Daza,240.25
+TCK-1575,2026-05-31 08:00:00,,Hardware,Baja,Abierto,Carlos Mendoza,Sandra Meza,398.55
+TCK-1576,2026-06-29 11:00:00,,Impresoras,Baja,En Proceso, Sin Asignar ,Patricia Arias Moreno,0.0
+TCK-1577,2026-03-09 11:00:00,,Hardware,ALTA,En Proceso,carlos mendoza,Luz Domínguez,184.16
+TCK-1578,2026-02-15 15:00:00,,Redes y Accesos,Media,En Proceso, Sin Asignar ,Rodrigo Villamizar Ramírez,0.0
+TCK-1579,2026-06-24 11:00:00,,SOFTWARE,Media,Abierto,Ana Torres,Ancizar Uribe,0.0
+TCK-1580,2026-02-22 11:00:00,2026-02-23 03:00:00,hardware,Critical,Resuelto,Luis Gómez,  stiven ruiz  ,71.21
+TCK-1581,2026-06-23 15:00:00,2026-06-23 16:00:00,hardware,Critical,CERRADO,Carlos Mendoza,Wendy Flor Castro Herrera,198.17
+TCK-1582,2026-05-28 12:00:00,,Software,Critical,Abierto,Luis Gómez,Manuel Julio Osorio Orozco,0.0
+TCK-1583,2026-02-02 08:00:00,2026-02-03 12:00:00,Impresoras,Critical,CERRADO,Carlos Mendoza,Ximena Paola Rojas,0.0
+TCK-1584,2026-06-25 10:00:00,,Hardware,,Abierto, Sin Asignar ,Clara Arévalo Sánchez,
+TCK-1585,2026-02-23 14:00:00,2026-02-23 21:00:00,Redes y Accesos,Baja,CERRADO, Sin Asignar ,William Reyes Palacios,0.0
+TCK-1586,2026-03-09 11:00:00,,Impresoras,Critical,En Proceso,Luis Gómez,Ángel Aguilar Arboleda,0.0
+TCK-1587,2026-02-23 14:00:00,,Redes y Accesos,ALTA,En Proceso,Luis Gómez,Andrea María Castaño Ortiz,0.0
+TCK-1588,2026-05-28 11:00:00,2026-05-29 05:00:00,hardware,Media,Cerrado, Sin Asignar ,Jonathan Cristian Guerrero Puentes,202.82
+TCK-1589,2026-02-08 15:00:00,2026-02-09 03:00:00,Impresoras,ALTA,Cerrado,Ana Torres,Sandra Bermúdez,0.0
+TCK-1590,2026-05-13 16:00:00,,hardware,ALTA,En Proceso,Luis Gómez,Alejandro Guevara Arrieta,
+TCK-1591,2026-01-26 10:00:00,2026-01-27 00:00:00,hardware,Baja,Cerrado,Sofia Ramos,Ruth Castillo Ibarra,66.22
+TCK-1592,2026-03-08 13:00:00,,Laptops / Equipos,Critical,En Proceso,Luis Gómez,Gabriel Bernal,217.65
+TCK-1593,2026-06-23 17:00:00,2026-06-25 04:00:00,Software,Baja,Resuelto,Luis Gómez,Rubiela Castellanos,0.0
+TCK-1594,2026-04-25 09:00:00,,Laptops / Equipos,Baja,Abierto,Sofia Ramos,Wilson Agustín Anaya Lara,89.53
+TCK-1595,2026-03-28 14:00:00,2026-03-29 16:00:00,hardware,Alta,CERRADO,Carlos Mendoza,  alexander hurtado páez  ,129.54
+TCK-1596,2026-03-16 12:00:00,2026-03-17 14:00:00,Redes y Accesos,ALTA,CERRADO,Luis Gómez,Andrés Salazar Sepúlveda,0.0
+TCK-1597,2026-04-26 14:00:00,2026-04-27 02:00:00,hardware,Alta,Resuelto,Ana Torres,Óscar Hernández Benavides,337.77
+TCK-1598,2026-06-29 09:00:00,2026-06-29 20:00:00,Impresoras,Alta,Resuelto,Carlos Mendoza,  alexander roger rodríguez  ,0.0
+TCK-1599,2026-05-21 08:00:00,2026-05-22 10:00:00,Laptops / Equipos,Alta,Cerrado,Carlos Mendoza,María Ofelia García,94.53
+TCK-1600,2026-04-10 12:00:00,2026-04-11 04:00:00,SOFTWARE,Baja,Resuelto,Sofia Ramos,Doris Moreno,0.0
+TCK-1601,2026-02-13 08:00:00,2026-02-14 07:00:00,hardware,Baja,Cerrado,Sofia Ramos,Álvaro Caicedo,438.03
+TCK-1602,2026-05-21 15:00:00,2026-05-23 02:00:00,Software,Critical,Resuelto, Sin Asignar ,Mireya Barragán Cárdenas,0.0
+TCK-1603,2026-05-25 14:00:00,2026-05-27 01:00:00,Redes y Accesos,Baja,CERRADO,Sofia Ramos,Brayan Lozano,0.0
+TCK-1604,2026-04-24 12:00:00,,Impresoras,Baja,En Proceso,Ana Torres,Edison Giraldo,
+TCK-1605,2026-02-04 13:00:00,,Impresoras,Critical,En Proceso,Carlos Mendoza,Iván Gustavo Mosquera Anaya,0.0
+TCK-1606,2026-05-03 12:00:00,2026-05-04 16:00:00,hardware,Baja,Cerrado, Sin Asignar ,Flor Gómez,23.46
+TCK-1607,2026-04-16 16:00:00,,Impresoras,Media,Abierto,Ana Torres,Armando Valencia,0.0
+TCK-1608,2026-04-07 11:00:00,,Hardware,ALTA,En Proceso,carlos mendoza,Carmen María Sánchez,386.98
+TCK-1609,2026-06-27 12:00:00,,SOFTWARE,,En Proceso, Sin Asignar ,Claudia Gómez Suárez,0.0
+TCK-1610,2026-01-18 10:00:00,2026-01-19 05:00:00,Hardware,,Resuelto,Sofia Ramos,Efrain Iván Niño,150.62
+TCK-1611,2026-02-18 13:00:00,2026-02-18 23:00:00,Hardware,Critical,Cerrado,Carlos Mendoza,  alejandro raúl mena  ,69.09
+TCK-1612,2026-04-23 08:00:00,2026-04-23 14:00:00,Software,Alta,Resuelto,Sofia Ramos,Guillermo Humberto Agudelo,0.0
+TCK-1613,2026-05-08 13:00:00,,SOFTWARE,Alta,Abierto,Luis Gómez,  andrea norma vargas perea  ,0.0
+TCK-1614,2026-02-07 08:00:00,,hardware,ALTA,En Proceso,Carlos Mendoza,Natalia Esperanza Hernández Olaya,107.17
+TCK-1615,2026-03-06 14:00:00,2026-03-06 22:00:00,hardware,,Cerrado,Ana Torres,Héctor Brayan Herrera,487.99
+TCK-1616,2026-01-09 11:00:00,,SOFTWARE,Alta,Abierto, Sin Asignar ,Leonardo Jhon Giraldo Serrano,0.0
+TCK-1617,2026-04-10 12:00:00,,Software,,En Proceso,carlos mendoza,  óscar josé sandoval valencia  ,0.0
+TCK-1618,2026-05-14 09:00:00,,Impresoras,,En Proceso,Luis Gómez,  vanessa fonseca franco  ,0.0
+TCK-1619,2026-06-20 11:00:00,2026-06-21 03:00:00,SOFTWARE,ALTA,Cerrado,Luis Gómez,  judith rodríguez  ,0.0
+TCK-1620,2026-05-30 09:00:00,,hardware,Media,Abierto,Carlos Mendoza,Enrique Fredy Márquez,298.92
+TCK-1621,2026-06-26 17:00:00,2026-06-27 17:00:00,hardware,Alta,Resuelto,Ana Torres,  maría parada gómez  ,63.87
+TCK-1622,2026-06-10 08:00:00,2026-06-11 07:00:00,SOFTWARE,Media,Cerrado,carlos mendoza,Andrés José Gómez,0.0
+TCK-1623,2026-05-05 11:00:00,,Laptops / Equipos,,En Proceso,Luis Gómez,Fernanda Marcela Salcedo,230.59
+TCK-1624,2026-06-26 14:00:00,,SOFTWARE,Media,En Proceso,Luis Gómez,Ferney Jiménez Bedoya,0.0
+TCK-1625,2026-04-23 16:00:00,,Laptops / Equipos,,En Proceso,Sofia Ramos,  alexander rojas  ,109.58
+TCK-1626,2026-04-30 12:00:00,2026-05-02 00:00:00,Software,Alta,CERRADO, Sin Asignar ,  andrés carlos martínez rivera  ,0.0
+TCK-1627,2026-03-09 16:00:00,,Impresoras,Alta,En Proceso,carlos mendoza,John Orjuela,0.0
+TCK-1628,2026-01-05 17:00:00,,hardware,Critical,En Proceso,Ana Torres,María Ardila,50.4
+TCK-1629,2026-04-10 11:00:00,2026-04-11 19:00:00,hardware,Critical,CERRADO,Ana Torres,Dayana Andrea Niño Benavides,174.85
+TCK-1630,2026-01-29 09:00:00,2026-01-29 14:00:00,Hardware,Media,CERRADO,Ana Torres,Luis Luis Cáceres,117.0
+TCK-1631,2026-01-26 08:00:00,2026-01-27 09:00:00,SOFTWARE,ALTA,CERRADO, Sin Asignar ,Ángela Montes Camacho,0.0
+TCK-1632,2026-01-13 13:00:00,2026-01-13 18:00:00,Hardware,Media,Resuelto,carlos mendoza,Leandro González,
+TCK-1633,2026-06-13 08:00:00,,Laptops / Equipos,,En Proceso,Sofia Ramos,Jazmín Milena Duque,
+TCK-1634,2026-06-07 12:00:00,2026-06-07 15:00:00,SOFTWARE,Alta,CERRADO,Luis Gómez,  tatiana padilla  ,0.0
+TCK-1635,2026-05-13 09:00:00,2026-05-14 00:00:00,Laptops / Equipos,ALTA,Cerrado,Ana Torres,  antonio castro  ,335.3
+TCK-1636,2026-02-15 16:00:00,2026-02-16 19:00:00,SOFTWARE,Alta,CERRADO,carlos mendoza,Anderson Ávila Rojas,0.0
+TCK-1637,2026-06-29 14:00:00,2026-06-30 01:00:00,hardware,Media,Cerrado, Sin Asignar ,Carolina Hernández,182.01
+TCK-1638,2026-06-03 15:00:00,,Redes y Accesos,Critical,En Proceso,Luis Gómez,Elizabeth González,0.0
+TCK-1639,2026-06-12 14:00:00,,Laptops / Equipos,Media,En Proceso, Sin Asignar ,Paola Yamile Hernández Pérez,200.03
+TCK-1640,2026-03-07 13:00:00,,Impresoras,ALTA,Abierto,Carlos Mendoza,Libia Villamizar,0.0
+TCK-1641,2026-06-02 08:00:00,2026-06-02 17:00:00,Redes y Accesos,Alta,CERRADO,Luis Gómez,Carlos Espitia,0.0
+TCK-1642,2026-03-22 08:00:00,,Laptops / Equipos,Critical,En Proceso, Sin Asignar ,José Vásquez,
+TCK-1643,2026-04-28 13:00:00,2026-04-28 22:00:00,Redes y Accesos,Baja,Resuelto, Sin Asignar ,Marco Juan Granados Fernández,0.0
+TCK-1644,2026-03-18 09:00:00,2026-03-19 11:00:00,Laptops / Equipos,Media,CERRADO,carlos mendoza,  maría luz hernández  ,175.85
+TCK-1645,2026-05-05 17:00:00,2026-05-06 13:00:00,Hardware,,Cerrado, Sin Asignar ,Liseth Villamil González,394.46
+TCK-1646,2026-03-27 13:00:00,,Impresoras,Alta,Abierto,Ana Torres,Elizabeth Santos,0.0
+TCK-1647,2026-01-03 14:00:00,2026-01-04 10:00:00,Laptops / Equipos,Alta,Cerrado,Luis Gómez,Laura Ortiz Molano,91.8
+TCK-1648,2026-02-26 10:00:00,2026-02-27 12:00:00,Impresoras,Critical,Cerrado, Sin Asignar ,Jesús Santos,0.0
+TCK-1649,2026-03-16 14:00:00,2026-03-16 23:00:00,Redes y Accesos,Alta,Resuelto,Sofia Ramos,Astrid Nohora Suárez,
+TCK-1650,2026-04-13 12:00:00,2026-04-14 14:00:00,Laptops / Equipos,ALTA,Cerrado,carlos mendoza,  jhon fuentes sanabria  ,84.74
+TCK-1651,2026-05-05 14:00:00,2026-05-06 03:00:00,Laptops / Equipos,Critical,CERRADO,carlos mendoza,Elsy Ramírez,136.31
+TCK-1652,2026-04-21 13:00:00,2026-04-21 19:00:00,Hardware,,CERRADO,Sofia Ramos,Alberto Murillo,187.19
+TCK-1653,2026-06-02 08:00:00,,Software,Baja,En Proceso, Sin Asignar ,Aurora Hernández,0.0
+TCK-1654,2026-06-09 10:00:00,,Hardware,Media,Abierto,Ana Torres,José Alonso Cortés Cortés,94.88
+TCK-1655,2026-01-22 09:00:00,2026-01-23 01:00:00,Laptops / Equipos,Media,Cerrado,Luis Gómez,  julio andrés perdomo naranjo  ,353.02
+TCK-1656,2026-04-26 15:00:00,2026-04-27 13:00:00,Software,,Cerrado, Sin Asignar ,Elías Castillo Osorio,0.0
+TCK-1657,2026-03-08 16:00:00,,Laptops / Equipos,,Abierto,Ana Torres,Diego Castillo Rojas,340.77
+TCK-1658,2026-06-19 16:00:00,2026-06-20 09:00:00,Software,Alta,Cerrado,Luis Gómez,Kevin Gómez Franco,0.0
+TCK-1659,2026-03-11 08:00:00,,SOFTWARE,Alta,Abierto,Carlos Mendoza,Amparo Villamizar,0.0
+TCK-1660,2026-06-18 13:00:00,2026-06-18 15:00:00,Redes y Accesos,,Cerrado,Sofia Ramos,Alejandra Catalina Arévalo,0.0
+TCK-1661,2026-01-26 13:00:00,,hardware,Critical,Abierto, Sin Asignar ,  arnulfo rincón vega  ,115.46
+TCK-1662,2026-05-24 08:00:00,2026-05-25 00:00:00,Laptops / Equipos,Baja,Cerrado,Luis Gómez,Marcela Rincón Vergara,
+TCK-1663,2026-06-25 13:00:00,,SOFTWARE,Baja,En Proceso,Ana Torres,Nancy Navarro,0.0
+TCK-1664,2026-03-12 08:00:00,,Impresoras,Alta,En Proceso, Sin Asignar ,Alberto Christian Rodríguez Orozco,0.0
+TCK-1665,2026-03-29 14:00:00,2026-03-29 20:00:00,SOFTWARE,ALTA,Resuelto, Sin Asignar ,María Jacqueline Gómez,0.0
+TCK-1666,2026-06-10 11:00:00,,Software,Critical,Abierto,Ana Torres,José Osorio,0.0
+TCK-1667,2026-06-04 13:00:00,,Laptops / Equipos,Media,Abierto,Ana Torres,Andrés Hernando Mosquera Ochoa,298.89
+TCK-1668,2026-02-21 10:00:00,,SOFTWARE,,En Proceso, Sin Asignar ,Esther Loaiza,0.0
+TCK-1669,2026-02-07 17:00:00,2026-02-08 14:00:00,Hardware,Critical,Resuelto, Sin Asignar ,Dary Inés Ospina,76.83
+TCK-1670,2026-02-07 08:00:00,,Impresoras,ALTA,En Proceso,Luis Gómez,Angie Triana,0.0
+TCK-1671,2026-06-13 12:00:00,2026-06-14 01:00:00,Hardware,Media,Resuelto,Ana Torres,  maría maría ospino acevedo  ,493.26
+TCK-1672,2026-06-05 17:00:00,2026-06-06 08:00:00,Laptops / Equipos,Media,CERRADO,Ana Torres,Jenny Suárez,192.45
+TCK-1673,2026-05-03 10:00:00,2026-05-04 17:00:00,SOFTWARE,,CERRADO,Luis Gómez,  catalina nidia pérez  ,0.0
+TCK-1674,2026-05-02 10:00:00,2026-05-02 23:00:00,Software,Alta,Resuelto,Sofia Ramos,Yerson Jimmy Cano,
+TCK-1675,2026-03-11 14:00:00,2026-03-12 03:00:00,hardware,Media,Resuelto,Carlos Mendoza,  dahiana guerrero  ,478.26
+TCK-1676,2026-06-07 15:00:00,,hardware,ALTA,En Proceso,Ana Torres,Elizabeth Mercado,392.58
+TCK-1677,2026-04-08 13:00:00,,Laptops / Equipos,,Abierto, Sin Asignar ,Martha Gloria Cardona,272.11
+TCK-1678,2026-01-10 16:00:00,2026-01-11 21:00:00,Impresoras,Alta,Cerrado,Ana Torres,Martha Rincón,0.0
+TCK-1679,2026-01-11 16:00:00,,Laptops / Equipos,,Abierto,Carlos Mendoza,  miryam maría ortega  ,230.99
+TCK-1680,2026-03-15 15:00:00,2026-03-16 19:00:00,Redes y Accesos,Critical,Resuelto,Carlos Mendoza,Julieth Eliana Rojas,0.0
+TCK-1681,2026-04-29 15:00:00,2026-05-01 00:00:00,Hardware,Media,Cerrado, Sin Asignar ,Patricia Martínez,354.13
+TCK-1682,2026-04-16 13:00:00,,Hardware,Media,Abierto,Sofia Ramos,Armando Jhon Henao Medina,362.06
+TCK-1683,2026-04-27 09:00:00,,Redes y Accesos,,En Proceso,carlos mendoza,Juan García,0.0
+TCK-1684,2026-02-01 09:00:00,2026-02-02 14:00:00,SOFTWARE,Baja,Cerrado,Carlos Mendoza,Natalia Ruth Restrepo Giraldo,0.0
+TCK-1685,2026-05-11 17:00:00,2026-05-12 18:00:00,Laptops / Equipos,ALTA,Resuelto,Carlos Mendoza,César Toro Gómez,457.88
+TCK-1686,2026-06-18 10:00:00,2026-06-18 20:00:00,Software,,Resuelto,Carlos Mendoza,Miguel Alberto Marín,0.0
+TCK-1687,2026-04-25 12:00:00,2026-04-25 20:00:00,Software,Media,Resuelto,Carlos Mendoza,Camila Pabón Gómez,0.0
+TCK-1688,2026-04-28 15:00:00,,Laptops / Equipos,Alta,Abierto, Sin Asignar ,Alfonso Acosta Romero,134.18
+TCK-1689,2026-05-02 15:00:00,,Impresoras,Alta,Abierto, Sin Asignar ,Brayan Gerson Rubio Sierra,0.0
+TCK-1690,2026-05-21 12:00:00,2026-05-23 00:00:00,hardware,Media,CERRADO,Carlos Mendoza,  janeth maría torres becerra  ,46.43
+TCK-1691,2026-02-07 08:00:00,2026-02-08 04:00:00,Redes y Accesos,Alta,CERRADO,Carlos Mendoza,  rosalba sánchez  ,0.0
+TCK-1692,2026-02-11 12:00:00,2026-02-13 00:00:00,Software,ALTA,CERRADO,carlos mendoza,Sonia Sánchez Quintero,0.0
+TCK-1693,2026-01-24 12:00:00,,Redes y Accesos,ALTA,En Proceso,Carlos Mendoza,Julieth Zapata Rojas,0.0
+TCK-1694,2026-01-17 12:00:00,,Software,Alta,Abierto,carlos mendoza,Jennifer Mery López Caballero,0.0
+TCK-1695,2026-04-16 16:00:00,2026-04-17 06:00:00,Laptops / Equipos,Alta,Resuelto,Carlos Mendoza,Patricia Esther Cano,490.09
+TCK-1696,2026-01-23 15:00:00,2026-01-24 10:00:00,Impresoras,Critical,CERRADO,Luis Gómez,Jaime Escobar,0.0
+TCK-1697,2026-06-09 13:00:00,2026-06-10 21:00:00,Laptops / Equipos,,Resuelto,carlos mendoza,Carlos López,407.83
+TCK-1698,2026-03-01 12:00:00,2026-03-01 13:00:00,Hardware,Alta,Resuelto,Sofia Ramos,Darwin Alberto Duarte,76.6
+TCK-1699,2026-06-07 14:00:00,,Hardware,Baja,Abierto,Luis Gómez,Martha Ariza,
+TCK-1700,2026-02-21 12:00:00,,hardware,Alta,En Proceso,Luis Gómez,Olga Cárdenas Caicedo,284.0
+TCK-1701,2026-01-30 13:00:00,,Impresoras,,En Proceso, Sin Asignar ,Carlos Carvajal,
+TCK-1702,2026-02-14 11:00:00,,hardware,Baja,En Proceso,carlos mendoza,Dayana Juana Navarro Bejarano,
+TCK-1703,2026-02-04 15:00:00,2026-02-05 21:00:00,hardware,Critical,Resuelto,Luis Gómez,Javier Luis Rivera,410.8
+TCK-1704,2026-01-15 16:00:00,,Laptops / Equipos,,En Proceso,carlos mendoza,Franklin Libardo Vega Hernández,277.23
+TCK-1705,2026-06-25 13:00:00,,Hardware,Media,En Proceso,Luis Gómez,Magdalena María Rodríguez Montes,182.79
+TCK-1706,2026-05-17 10:00:00,2026-05-18 11:00:00,Software,Critical,CERRADO,Carlos Mendoza,José Alfonso Martínez,0.0
+TCK-1707,2026-06-30 13:00:00,2026-07-01 07:00:00,Impresoras,Alta,Cerrado,Sofia Ramos,Juan González Valencia,0.0
+TCK-1708,2026-03-19 11:00:00,2026-03-20 07:00:00,Software,Alta,CERRADO,Luis Gómez,Bernardo Alexis Pérez,0.0
+TCK-1709,2026-01-24 15:00:00,2026-01-24 17:00:00,hardware,ALTA,CERRADO, Sin Asignar ,  jesús perdomo carvajal  ,183.26
+TCK-1710,2026-05-15 12:00:00,,Software,Alta,En Proceso, Sin Asignar ,Luisa Arenas,0.0
+TCK-1711,2026-01-10 15:00:00,,SOFTWARE,Critical,Abierto,Carlos Mendoza,  dayana maría cruz  ,0.0
+TCK-1712,2026-06-25 17:00:00,2026-06-26 15:00:00,Impresoras,Alta,Cerrado,Carlos Mendoza,Oliva Nancy Domínguez Rico,0.0
+TCK-1713,2026-03-21 08:00:00,2026-03-22 04:00:00,SOFTWARE,Media,CERRADO,Luis Gómez,Andrea Carmen Rendón Ramírez,0.0
+TCK-1714,2026-05-17 13:00:00,,SOFTWARE,Alta,Abierto,Luis Gómez,  gabriel oswaldo sierra  ,0.0
+TCK-1715,2026-01-04 17:00:00,2026-01-06 02:00:00,Hardware,Media,CERRADO, Sin Asignar ,Isabel Angélica Cruz Burbano,172.87
+TCK-1716,2026-06-30 12:00:00,2026-07-01 04:00:00,Software,Alta,CERRADO,Luis Gómez,Carmen Marcela Cardona Romero,0.0
+TCK-1717,2026-04-24 08:00:00,2026-04-24 10:00:00,Impresoras,,Resuelto,Carlos Mendoza,  viviana eugenia sierra  ,
+TCK-1718,2026-04-20 14:00:00,2026-04-21 19:00:00,Laptops / Equipos,Baja,Resuelto,Luis Gómez,Paola Ortiz Ospina,115.11
+TCK-1719,2026-05-17 09:00:00,,Laptops / Equipos,Media,Abierto,Carlos Mendoza,David Ancizar Rico,461.45
+TCK-1720,2026-04-27 12:00:00,,Impresoras,Media,Abierto,Ana Torres,  armando gerardo sánchez figueroa  ,0.0
+TCK-1721,2026-03-08 13:00:00,,Software,,Abierto,carlos mendoza,Ángela Fanny Muñoz,0.0
+TCK-1722,2026-03-25 15:00:00,,Hardware,Alta,Abierto,Sofia Ramos,  lilia hernández valencia  ,249.75
+TCK-1723,2026-03-14 13:00:00,2026-03-14 22:00:00,Laptops / Equipos,Alta,CERRADO,Sofia Ramos,María María Soto Duque,402.44
+TCK-1724,2026-06-16 09:00:00,,Laptops / Equipos,ALTA,En Proceso,Sofia Ramos,Jairo Jairo Rojas,134.52
+TCK-1725,2026-02-10 15:00:00,,Hardware,Baja,Abierto,Ana Torres,Dario Fonseca García,303.67
+TCK-1726,2026-04-22 17:00:00,,Laptops / Equipos,,En Proceso,Ana Torres,  juan javier vanegas  ,341.41
+TCK-1727,2026-05-27 15:00:00,2026-05-28 21:00:00,Redes y Accesos,Critical,Cerrado,Carlos Mendoza,César Juan Melo Pinzón,0.0
+TCK-1728,2026-04-14 09:00:00,2026-04-14 16:00:00,SOFTWARE,Critical,CERRADO,Sofia Ramos,Juan González,0.0
+TCK-1729,2026-01-16 09:00:00,2026-01-16 18:00:00,Laptops / Equipos,,Resuelto,Carlos Mendoza,Leonor Orozco Vargas,337.22
+TCK-1730,2026-03-16 14:00:00,2026-03-17 19:00:00,Software,Media,CERRADO,carlos mendoza,Arturo Steven Ariza Camacho,0.0
+TCK-1731,2026-06-23 12:00:00,,SOFTWARE,Baja,Abierto,Carlos Mendoza,Moisés González Álvarez,0.0
+TCK-1732,2026-05-11 14:00:00,2026-05-12 09:00:00,Hardware,Baja,Resuelto, Sin Asignar ,Marina Amparo Quiroz Mendoza,20.4
+TCK-1733,2026-04-02 09:00:00,,hardware,Alta,En Proceso,Ana Torres,María Milena Sierra Monsalve,303.28
+TCK-1734,2026-04-08 14:00:00,,Impresoras,Critical,Abierto,Ana Torres,Jorge Barrios Mosquera,0.0
+TCK-1735,2026-02-18 16:00:00,,hardware,Baja,Abierto,Sofia Ramos,  jesús tovar  ,498.78
+TCK-1736,2026-02-04 08:00:00,2026-02-04 10:00:00,Software,,Cerrado,Sofia Ramos,John Omar Barrios,0.0
+TCK-1737,2026-02-04 09:00:00,2026-02-05 12:00:00,hardware,ALTA,Resuelto,carlos mendoza,Juan Jesús Giraldo Arias,224.34
+TCK-1738,2026-05-11 14:00:00,2026-05-12 19:00:00,Impresoras,Baja,CERRADO,Ana Torres,  mireya pulido pérez  ,0.0
+TCK-1739,2026-05-28 15:00:00,2026-05-30 00:00:00,Redes y Accesos,ALTA,Resuelto, Sin Asignar ,Andrey Javier Duque Jaimes,
+TCK-1740,2026-01-10 17:00:00,,SOFTWARE,Baja,Abierto,Carlos Mendoza,René José Muñoz Sánchez,0.0
+TCK-1741,2026-01-21 10:00:00,2026-01-22 04:00:00,Impresoras,Critical,CERRADO,Carlos Mendoza,Alejandro Arias,0.0
+TCK-1742,2026-03-04 15:00:00,2026-03-06 02:00:00,hardware,Critical,Cerrado,Luis Gómez,Marcela Fernanda Rodríguez Camargo,453.72
+TCK-1743,2026-01-03 15:00:00,,Laptops / Equipos,ALTA,Abierto, Sin Asignar ,Alberto Jaime Rivera,222.09
+TCK-1744,2026-03-17 12:00:00,2026-03-17 15:00:00,SOFTWARE,Critical,Resuelto,carlos mendoza,Camilo Jesús Hernández,0.0
+TCK-1745,2026-03-08 08:00:00,,Laptops / Equipos,Media,Abierto, Sin Asignar ,  nelson héctor quintero moreno  ,495.38
+TCK-1746,2026-06-09 08:00:00,,Impresoras,Alta,En Proceso,Ana Torres,Horacio Peña,0.0
+TCK-1747,2026-03-13 12:00:00,2026-03-14 06:00:00,Redes y Accesos,Baja,Resuelto,Carlos Mendoza,Jhon Montes Sarmiento,0.0
+TCK-1748,2026-06-01 10:00:00,,Redes y Accesos,Media,Abierto,Luis Gómez,Yeison Gildardo Gómez Córdoba,0.0
+TCK-1749,2026-02-16 16:00:00,2026-02-17 14:00:00,Hardware,Media,Cerrado, Sin Asignar ,Hernán Galvis Arrieta,93.99
+TCK-1750,2026-04-16 14:00:00,2026-04-17 19:00:00,SOFTWARE,,Resuelto,Ana Torres,Ibeth Rodríguez Obando,0.0
+TCK-1751,2026-03-30 08:00:00,,hardware,Alta,En Proceso,Carlos Mendoza,  saúl santiago reyes  ,211.4
+TCK-1752,2026-05-17 11:00:00,,SOFTWARE,,Abierto,Sofia Ramos,Franco Martín Medina,0.0
+TCK-1753,2026-04-22 08:00:00,,hardware,ALTA,En Proceso,Sofia Ramos,Sergio Estrada,481.65
+TCK-1754,2026-01-11 09:00:00,2026-01-12 08:00:00,hardware,ALTA,CERRADO, Sin Asignar ,Juan Martínez,432.01
+TCK-1755,2026-03-10 09:00:00,,SOFTWARE,Critical,En Proceso,Sofia Ramos,Mauricio Hoyos Ballesteros,0.0
+TCK-1756,2026-03-03 17:00:00,2026-03-05 03:00:00,Redes y Accesos,,Resuelto,carlos mendoza,Cecilia Nelly Caicedo Díaz,0.0
+TCK-1757,2026-01-03 08:00:00,2026-01-03 09:00:00,Impresoras,Alta,Cerrado, Sin Asignar ,  maría gonzález ayala  ,0.0
+TCK-1758,2026-02-26 12:00:00,,Software,Alta,En Proceso,Carlos Mendoza,Alberto Luis Narváez Henao,
+TCK-1759,2026-06-02 11:00:00,2026-06-02 19:00:00,SOFTWARE,Alta,CERRADO,Carlos Mendoza,César Felipe Jiménez,0.0
+TCK-1760,2026-06-18 17:00:00,2026-06-19 01:00:00,SOFTWARE,Media,Resuelto,Luis Gómez,Jhon Alberto Díaz,0.0
+TCK-1761,2026-01-20 15:00:00,,hardware,ALTA,En Proceso,carlos mendoza,Gabriel Hernández Zuluaga,389.54
+TCK-1762,2026-02-11 09:00:00,,hardware,Alta,En Proceso,Sofia Ramos,Valentina Luz Gaviria,498.06
+TCK-1763,2026-03-09 10:00:00,,Hardware,ALTA,Abierto,Ana Torres,Luz Cortés,105.65
+TCK-1764,2026-02-06 16:00:00,,Software,Critical,Abierto,carlos mendoza,  mercedes medina acosta  ,0.0
+TCK-1765,2026-03-08 09:00:00,2026-03-08 14:00:00,Hardware,Critical,Cerrado,carlos mendoza,Roberto Cárdenas,234.02
+TCK-1766,2026-02-08 08:00:00,2026-02-09 09:00:00,Redes y Accesos,Media,Cerrado,carlos mendoza,Jaime Augusto Montoya Ríos,0.0
+TCK-1767,2026-01-01 16:00:00,,Impresoras,ALTA,Abierto,Sofia Ramos,Hugo Castillo Blanco,0.0
+TCK-1768,2026-01-18 16:00:00,2026-01-18 17:00:00,Impresoras,,Resuelto,Sofia Ramos,  johanna paola álvarez  ,0.0
+TCK-1769,2026-04-02 13:00:00,,Impresoras,Alta,En Proceso,carlos mendoza,Enith Muñoz Arias,0.0
+TCK-1770,2026-04-04 16:00:00,,Hardware,ALTA,En Proceso,Luis Gómez,Danilo Ramírez,
+TCK-1771,2026-04-09 11:00:00,,SOFTWARE,ALTA,En Proceso,Carlos Mendoza,Juan Calderón,0.0
+TCK-1772,2026-01-22 15:00:00,2026-01-23 00:00:00,Hardware,Media,Resuelto,Carlos Mendoza,Miguel Mantilla,304.61
+TCK-1773,2026-01-17 16:00:00,,Impresoras,Critical,En Proceso,Sofia Ramos,Diego Geovanny Galindo Triana,
+TCK-1774,2026-03-28 08:00:00,,hardware,,En Proceso,Carlos Mendoza,Rosa Lorena Rojas Becerra,121.61
+TCK-1775,2026-05-14 15:00:00,2026-05-15 01:00:00,SOFTWARE,Critical,CERRADO,Ana Torres,Rosalba Sandra Ramírez González,
+TCK-1776,2026-02-06 15:00:00,2026-02-07 22:00:00,Laptops / Equipos,Alta,Cerrado,Ana Torres,Elena María Romero Vargas,82.66
+TCK-1777,2026-01-13 12:00:00,2026-01-14 18:00:00,Laptops / Equipos,Media,Cerrado, Sin Asignar ,  eugenio rodríguez castro  ,412.39
+TCK-1778,2026-06-02 17:00:00,2026-06-02 22:00:00,hardware,Media,Resuelto,Sofia Ramos,Patricia Hernández Gutiérrez,421.23
+TCK-1779,2026-04-13 13:00:00,2026-04-15 00:00:00,Software,Baja,Cerrado,Ana Torres,Javier Rodríguez,0.0
+TCK-1780,2026-03-27 09:00:00,2026-03-28 03:00:00,Software,ALTA,Cerrado,Ana Torres,Maribel Deisy Arenas,0.0
+TCK-1781,2026-04-23 11:00:00,2026-04-23 14:00:00,Software,Alta,CERRADO,carlos mendoza,Elizabeth Leidy Galeano Ariza,0.0
+TCK-1782,2026-01-05 15:00:00,2026-01-05 16:00:00,Hardware,Media,Cerrado,Carlos Mendoza,Isabel Alba Mejía Martínez,304.99
+TCK-1783,2026-06-27 15:00:00,2026-06-28 05:00:00,Software,,Resuelto,Luis Gómez,Carmen Martínez,0.0
+TCK-1784,2026-02-14 17:00:00,2026-02-15 05:00:00,SOFTWARE,ALTA,Cerrado, Sin Asignar ,José Javier González Miranda,0.0
+TCK-1785,2026-03-19 13:00:00,,Hardware,Critical,Abierto,Ana Torres,  andrea sánchez  ,493.57
+TCK-1786,2026-06-08 13:00:00,2026-06-09 22:00:00,Software,ALTA,CERRADO,carlos mendoza,Deyanira Hernández,0.0
+TCK-1787,2026-02-19 09:00:00,2026-02-20 16:00:00,Impresoras,Media,Resuelto,Ana Torres,Jimena Gómez,
+TCK-1788,2026-06-15 13:00:00,,Software,ALTA,En Proceso,Luis Gómez,Gloria Maribel Hernández Hernández,0.0
+TCK-1789,2026-04-27 08:00:00,2026-04-27 12:00:00,Laptops / Equipos,Media,Cerrado,Ana Torres,Lisbeth Yadira López,252.83
+TCK-1790,2026-03-02 15:00:00,2026-03-03 12:00:00,Impresoras,Media,CERRADO,carlos mendoza,John Medina,0.0
+TCK-1791,2026-01-29 13:00:00,2026-01-29 20:00:00,Software,,Resuelto,Sofia Ramos,Francisco García,0.0
+TCK-1792,2026-02-26 09:00:00,,Laptops / Equipos,ALTA,Abierto,Carlos Mendoza,Pablo Luna Pedraza,89.57
+TCK-1793,2026-04-27 10:00:00,,Redes y Accesos,Media,Abierto,Sofia Ramos,Ana Marcela Ruiz,0.0
+TCK-1794,2026-03-11 11:00:00,,Software,Alta,En Proceso,carlos mendoza,Fanny Toro Hernández,0.0
+TCK-1795,2026-01-29 15:00:00,,Impresoras,Media,Abierto,Luis Gómez,Saúl Salazar López,0.0
+TCK-1796,2026-02-10 17:00:00,2026-02-12 05:00:00,hardware,Media,Resuelto,Carlos Mendoza,Dario Luis Rendón,270.45
+TCK-1797,2026-02-25 17:00:00,,hardware,ALTA,Abierto,Luis Gómez,  carlos alberto guzmán alzate  ,225.49
+TCK-1798,2026-03-05 13:00:00,,Laptops / Equipos,Media,Abierto, Sin Asignar ,Inés Acosta,458.6
+TCK-1799,2026-04-17 08:00:00,2026-04-18 15:00:00,SOFTWARE,Critical,Cerrado,Carlos Mendoza,Carlos Romero,0.0
+TCK-1800,2026-06-28 09:00:00,,Impresoras,Media,Abierto,Carlos Mendoza,Rubén Arévalo Moreno,
+TCK-1801,2026-04-15 11:00:00,2026-04-16 10:00:00,Redes y Accesos,Media,Resuelto,carlos mendoza,Margarita Luz Vargas,
+TCK-1802,2026-06-21 12:00:00,2026-06-22 18:00:00,hardware,Critical,Resuelto,carlos mendoza,Sandra Durán Gamboa,488.68
+TCK-1803,2026-02-05 14:00:00,2026-02-06 14:00:00,SOFTWARE,ALTA,Resuelto,carlos mendoza,Marina María Pérez Galindo,0.0
+TCK-1804,2026-01-19 14:00:00,,Laptops / Equipos,Alta,En Proceso,Luis Gómez,Nicolás Carlos Rentería Burgos,149.5
+TCK-1805,2026-05-19 17:00:00,2026-05-19 23:00:00,Laptops / Equipos,Baja,Resuelto,carlos mendoza,Milena Álvarez,267.07
+TCK-1806,2026-04-04 08:00:00,2026-04-05 09:00:00,Redes y Accesos,ALTA,Cerrado, Sin Asignar ,  ximena blanco díaz  ,0.0
+TCK-1807,2026-06-15 16:00:00,2026-06-17 04:00:00,SOFTWARE,Media,Cerrado,Ana Torres,Eduardo Jhon Espitia Romero,0.0
+TCK-1808,2026-01-30 15:00:00,2026-01-31 05:00:00,hardware,,CERRADO,Ana Torres,Gladys Melissa Herrera Reyes,451.01
+TCK-1809,2026-04-19 12:00:00,2026-04-19 17:00:00,Redes y Accesos,Baja,Cerrado,Sofia Ramos,Hilda García Vélez,0.0
+TCK-1810,2026-02-01 15:00:00,2026-02-03 02:00:00,Redes y Accesos,ALTA,CERRADO, Sin Asignar ,Milena Esther Cantillo,0.0
+TCK-1811,2026-06-27 09:00:00,2026-06-28 15:00:00,Hardware,Alta,Resuelto,Sofia Ramos,María Rodríguez Figueroa,158.42
+TCK-1812,2026-01-28 10:00:00,,Hardware,,En Proceso,Ana Torres,Raquel Murillo,440.0
+TCK-1813,2026-06-10 08:00:00,,Impresoras,,En Proceso, Sin Asignar ,Jenny Elena Daza Ríos,0.0
+TCK-1814,2026-04-18 15:00:00,2026-04-19 10:00:00,Software,Alta,Cerrado,Carlos Mendoza,Héctor Gutiérrez,0.0
+TCK-1815,2026-05-14 13:00:00,,Laptops / Equipos,Baja,Abierto,carlos mendoza,Yésica Esperanza Castro,176.63
+TCK-1816,2026-06-28 16:00:00,2026-06-29 21:00:00,Impresoras,Baja,CERRADO, Sin Asignar ,  adriana mónica vera medina  ,0.0
+TCK-1817,2026-02-13 12:00:00,2026-02-14 19:00:00,Redes y Accesos,Baja,Resuelto,Carlos Mendoza,  maría fabiola hernández aguilar  ,0.0
+TCK-1818,2026-02-12 17:00:00,2026-02-14 04:00:00,Redes y Accesos,Media,Resuelto,Ana Torres,Gloria Sonia Burbano Restrepo,0.0
+TCK-1819,2026-06-20 10:00:00,2026-06-21 02:00:00,Hardware,Alta,Resuelto,Luis Gómez,Cecilia Torres Morales,231.63
+TCK-1820,2026-02-22 16:00:00,2026-02-23 13:00:00,Redes y Accesos,Media,Cerrado,Luis Gómez,Juan Iván Ruiz Meneses,0.0
+TCK-1821,2026-05-17 12:00:00,2026-05-17 14:00:00,Impresoras,ALTA,Cerrado,Ana Torres,Luis Cárdenas,0.0
+TCK-1822,2026-02-09 08:00:00,2026-02-10 17:00:00,Redes y Accesos,,CERRADO,carlos mendoza,Yaneth Nancy Castillo,0.0
+TCK-1823,2026-05-27 10:00:00,2026-05-28 15:00:00,Redes y Accesos,,CERRADO,Carlos Mendoza,Edilma Natalia Castro,0.0
+TCK-1824,2026-02-05 16:00:00,2026-02-06 12:00:00,Hardware,ALTA,Cerrado, Sin Asignar ,Sandra Álvarez Vargas,
+TCK-1825,2026-01-15 17:00:00,2026-01-17 03:00:00,Software,Baja,Resuelto,Ana Torres,  gladis claudia sierra ospino  ,0.0
+TCK-1826,2026-04-25 09:00:00,2026-04-26 11:00:00,Software,ALTA,CERRADO,Luis Gómez,Paola Gloria Toro,0.0
+TCK-1827,2026-01-15 13:00:00,,Software,,Abierto,Sofia Ramos,Alexis Méndez Arias,0.0
+TCK-1828,2026-03-14 13:00:00,,Redes y Accesos,ALTA,En Proceso, Sin Asignar ,  rocío margoth ochoa  ,0.0
+TCK-1829,2026-04-24 14:00:00,,Redes y Accesos,Media,Abierto,carlos mendoza,Yulieth Milena Castaño,0.0
+TCK-1830,2026-04-17 10:00:00,2026-04-17 16:00:00,Software,Media,CERRADO,Luis Gómez,José Patiño López,0.0
+TCK-1831,2026-03-27 09:00:00,2026-03-28 10:00:00,Hardware,Alta,CERRADO,Sofia Ramos,Jorge Juan Caicedo Triana,151.2
+TCK-1832,2026-04-29 17:00:00,2026-04-30 06:00:00,Software,ALTA,Resuelto,Luis Gómez,Jesús Oswaldo Cifuentes Caicedo,
+TCK-1833,2026-03-19 17:00:00,,Impresoras,Critical,En Proceso,carlos mendoza,María Margoth Orjuela Jaimes,
+TCK-1834,2026-01-01 10:00:00,,Redes y Accesos,,En Proceso,carlos mendoza,Antonio Josué Quintero Valderrama,0.0
+TCK-1835,2026-03-15 14:00:00,2026-03-16 22:00:00,SOFTWARE,,Resuelto,Ana Torres,  claudia bravo ramírez  ,0.0
+TCK-1836,2026-05-07 09:00:00,2026-05-08 09:00:00,Laptops / Equipos,ALTA,CERRADO, Sin Asignar ,Adriana Carmen Castro,143.8
+TCK-1837,2026-06-27 09:00:00,,Laptops / Equipos,,En Proceso, Sin Asignar ,  alfonso stiven ochoa salazar  ,144.58
+TCK-1838,2026-02-07 13:00:00,,SOFTWARE,Media,Abierto,Luis Gómez,  maría franco  ,0.0
+TCK-1839,2026-04-18 13:00:00,2026-04-19 08:00:00,Redes y Accesos,Critical,Cerrado,carlos mendoza,Mayerly Angie Andrade,0.0
+TCK-1840,2026-06-10 10:00:00,2026-06-10 21:00:00,Laptops / Equipos,Baja,Cerrado,Luis Gómez,Alejandra Marcela Vélez Gómez,348.78
+TCK-1841,2026-06-25 13:00:00,2026-06-27 00:00:00,Laptops / Equipos,Baja,Cerrado,Ana Torres,  beatriz diana lópez páez  ,268.72
+TCK-1842,2026-05-05 14:00:00,,Software,Alta,En Proceso,Ana Torres,  dary giraldo  ,0.0
+TCK-1843,2026-02-18 16:00:00,2026-02-20 02:00:00,hardware,Critical,CERRADO,carlos mendoza,Jennifer Escobar García,383.03
+TCK-1844,2026-04-28 09:00:00,2026-04-28 18:00:00,Hardware,ALTA,Cerrado,Luis Gómez,Gustavo Alberto Osorio,194.03
+TCK-1845,2026-06-02 16:00:00,,Software,,En Proceso,Luis Gómez,  juan omar méndez  ,0.0
+TCK-1846,2026-02-26 10:00:00,2026-02-27 01:00:00,Redes y Accesos,Media,Resuelto,Ana Torres,  francisco fernando murillo  ,
+TCK-1847,2026-06-26 09:00:00,2026-06-26 11:00:00,hardware,ALTA,Cerrado,Sofia Ramos,  graciela jennifer ortega  ,71.75
+TCK-1848,2026-05-12 17:00:00,2026-05-14 00:00:00,Hardware,Baja,Cerrado,Carlos Mendoza,  liliana torres gómez  ,340.44
+TCK-1849,2026-02-01 17:00:00,2026-02-02 06:00:00,Software,,Resuelto,Luis Gómez,  andrés castellanos  ,0.0
+TCK-1850,2026-03-13 17:00:00,,Redes y Accesos,Media,En Proceso, Sin Asignar ,Omar Adolfo Serna,0.0
+TCK-1851,2026-05-10 17:00:00,2026-05-11 00:00:00,hardware,Critical,Cerrado,Carlos Mendoza,Alejandro Rojas Ruiz,363.59
+TCK-1852,2026-02-13 16:00:00,2026-02-13 23:00:00,Software,Critical,Cerrado,carlos mendoza,Ramiro Anaya,0.0
+TCK-1853,2026-02-17 15:00:00,2026-02-18 03:00:00,hardware,Baja,Cerrado,Sofia Ramos,Amparo López Guzmán,266.84
+TCK-1854,2026-03-22 09:00:00,,Hardware,Critical,Abierto,Ana Torres,María Hernández,193.4
+TCK-1855,2026-01-11 09:00:00,,Impresoras,Alta,En Proceso,Sofia Ramos,Raúl García,0.0
+TCK-1856,2026-03-21 15:00:00,2026-03-23 03:00:00,Impresoras,Baja,Resuelto,Sofia Ramos,  oswaldo augusto vélez rodríguez  ,
+TCK-1857,2026-05-02 13:00:00,2026-05-02 14:00:00,SOFTWARE,ALTA,Resuelto,carlos mendoza,  elías josé rosero peña  ,0.0
+TCK-1858,2026-06-18 09:00:00,2026-06-18 19:00:00,Impresoras,ALTA,Cerrado,carlos mendoza,María Gloria Martínez,0.0
+TCK-1859,2026-02-13 09:00:00,,Software,Baja,En Proceso,Ana Torres,Lina Marín Mosquera,0.0
+TCK-1860,2026-02-01 11:00:00,,SOFTWARE,ALTA,Abierto,Luis Gómez,Diana Osorio,0.0
+TCK-1861,2026-06-01 12:00:00,,Redes y Accesos,ALTA,Abierto,carlos mendoza,Guillermo Joaquín Vásquez,0.0
+TCK-1862,2026-05-05 16:00:00,,Software,ALTA,En Proceso,Carlos Mendoza,  viviana moreno rueda  ,0.0
+TCK-1863,2026-03-01 10:00:00,2026-03-01 17:00:00,SOFTWARE,Alta,Cerrado,Carlos Mendoza,Jimena Bernal,
+TCK-1864,2026-02-15 14:00:00,2026-02-16 11:00:00,Software,Baja,CERRADO, Sin Asignar ,Luz Patricia Arias,0.0
+TCK-1865,2026-06-19 16:00:00,,hardware,ALTA,Abierto,Ana Torres,Patricia Benavides Martínez,258.99
+TCK-1866,2026-05-19 13:00:00,2026-05-21 00:00:00,Hardware,Alta,CERRADO,Sofia Ramos,Robinson Andrés Narváez Gutiérrez,77.18
+TCK-1867,2026-04-07 15:00:00,,Hardware,Alta,Abierto,Ana Torres,Fredy Javier Flórez Sánchez,432.97
+TCK-1868,2026-06-30 10:00:00,,Impresoras,Media,Abierto,Luis Gómez,María Angarita Ospina,0.0
+TCK-1869,2026-01-29 17:00:00,,SOFTWARE,Critical,Abierto,carlos mendoza,Óscar Adolfo Rodríguez,0.0
+TCK-1870,2026-05-24 10:00:00,2026-05-24 14:00:00,Impresoras,Baja,CERRADO,Sofia Ramos,Dario Puentes Suárez,0.0
+TCK-1871,2026-06-23 13:00:00,,Redes y Accesos,Alta,En Proceso,Carlos Mendoza,Luz García Montoya,0.0
+TCK-1872,2026-04-04 13:00:00,2026-04-04 15:00:00,hardware,,CERRADO,Luis Gómez,Patricia Judith Rojas,225.51
+TCK-1873,2026-04-16 13:00:00,2026-04-17 05:00:00,Software,Media,Cerrado,carlos mendoza,Jesús Sebastián Moreno,
+TCK-1874,2026-06-26 09:00:00,,Hardware,Baja,En Proceso,Ana Torres,  sonia elsa mena gómez  ,176.54
+TCK-1875,2026-04-19 17:00:00,2026-04-20 20:00:00,Redes y Accesos,Alta,CERRADO,carlos mendoza,Leandro Alexander Osorio Sánchez,
+TCK-1876,2026-03-23 14:00:00,2026-03-24 15:00:00,Redes y Accesos,Critical,CERRADO,Carlos Mendoza,Claudia Medina,0.0
+TCK-1877,2026-06-22 11:00:00,,Impresoras,Critical,En Proceso,carlos mendoza,Stiven Duarte Carrillo,0.0
+TCK-1878,2026-04-04 14:00:00,2026-04-05 22:00:00,SOFTWARE,Alta,Resuelto, Sin Asignar ,Leonardo Franco Mena Parra,0.0
+TCK-1879,2026-03-18 17:00:00,,hardware,Media,Abierto, Sin Asignar ,Lilia Stella Ortiz,64.14
+TCK-1880,2026-01-25 17:00:00,,Redes y Accesos,Alta,En Proceso, Sin Asignar ,Daniela Yolanda Ariza,0.0
+TCK-1881,2026-02-23 13:00:00,2026-02-24 09:00:00,Laptops / Equipos,Baja,Cerrado,Sofia Ramos,Manuel Carlos Arévalo Martínez,170.41
+TCK-1882,2026-03-06 17:00:00,2026-03-07 23:00:00,SOFTWARE,Critical,CERRADO,Ana Torres,Ximena Carmen Calderón,0.0
+TCK-1883,2026-05-13 10:00:00,2026-05-14 18:00:00,Software,,CERRADO,carlos mendoza,Juan Hernández,0.0
+TCK-1884,2026-06-13 16:00:00,2026-06-14 20:00:00,Laptops / Equipos,,CERRADO,carlos mendoza,  marcela rodríguez  ,116.31
+TCK-1885,2026-03-03 10:00:00,,hardware,ALTA,En Proceso,Sofia Ramos,Antonio Alexander Quiroz Rodríguez,
+TCK-1886,2026-02-22 14:00:00,,hardware,Baja,En Proceso,carlos mendoza,  emilse angulo  ,349.69
+TCK-1887,2026-03-03 09:00:00,2026-03-03 22:00:00,Hardware,Media,Resuelto,Luis Gómez,Germán Ramos,288.72
+TCK-1888,2026-06-15 08:00:00,2026-06-15 19:00:00,Redes y Accesos,Media,Resuelto,Carlos Mendoza,Cristian León Bohórquez,0.0
+TCK-1889,2026-06-18 16:00:00,2026-06-18 19:00:00,SOFTWARE,ALTA,Resuelto,Carlos Mendoza,  amparo libia rodríguez benavides  ,0.0
+TCK-1890,2026-03-22 17:00:00,,hardware,Alta,En Proceso,Sofia Ramos,Andrés Eider Vega,342.4
+TCK-1891,2026-04-12 10:00:00,2026-04-12 18:00:00,Laptops / Equipos,,Resuelto, Sin Asignar ,Teresa Mejía Narváez,270.54
+TCK-1892,2026-05-15 12:00:00,,Hardware,Media,Abierto, Sin Asignar ,  smith carlos cuesta saavedra  ,407.21
+TCK-1893,2026-05-30 14:00:00,2026-05-31 18:00:00,Software,Media,Resuelto,Carlos Mendoza,  tatiana ligia romero cabrera  ,0.0
+TCK-1894,2026-04-23 14:00:00,,hardware,Critical,En Proceso,Carlos Mendoza,José José Ortega Orozco,199.86
+TCK-1895,2026-03-23 16:00:00,,Impresoras,,Abierto,Ana Torres,David Valencia,0.0
+TCK-1896,2026-02-07 13:00:00,,SOFTWARE,Baja,Abierto,Luis Gómez,  paola patricia vargas tamayo  ,0.0
+TCK-1897,2026-06-05 08:00:00,2026-06-06 00:00:00,Redes y Accesos,Critical,Cerrado,Sofia Ramos,Jorge Nicolás López,0.0
+TCK-1898,2026-04-03 09:00:00,2026-04-04 01:00:00,hardware,ALTA,CERRADO,Sofia Ramos,  heriberto andrés castillo  ,481.16
+TCK-1899,2026-03-07 12:00:00,2026-03-08 04:00:00,Redes y Accesos,Media,Cerrado,Ana Torres,Marcela Elizabeth Suárez,0.0
+TCK-1900,2026-06-14 14:00:00,2026-06-15 08:00:00,hardware,Alta,Cerrado,Sofia Ramos,Alirio Martínez,218.22
+TCK-1901,2026-04-19 09:00:00,2026-04-20 02:00:00,Laptops / Equipos,Alta,Resuelto,Luis Gómez,María Sánchez Castillo,370.03
+TCK-1902,2026-03-25 15:00:00,2026-03-25 19:00:00,SOFTWARE,,Cerrado,Ana Torres,Salvador Ortiz,0.0
+TCK-1903,2026-02-04 08:00:00,,Software,,Abierto,Luis Gómez,María Agudelo Guerra,
+TCK-1904,2026-02-10 11:00:00,2026-02-10 20:00:00,hardware,Critical,CERRADO,carlos mendoza,Alfredo Torres,470.92
+TCK-1905,2026-02-04 12:00:00,2026-02-05 09:00:00,hardware,Baja,Resuelto,Ana Torres,  alejandro benavides  ,196.45
+TCK-1906,2026-04-07 17:00:00,2026-04-07 19:00:00,Hardware,Critical,Resuelto,carlos mendoza,Carmen Escobar Ocampo,
+TCK-1907,2026-04-29 11:00:00,,SOFTWARE,Media,En Proceso,Carlos Mendoza,Blanca Adriana Jaimes,0.0
+TCK-1908,2026-03-08 10:00:00,2026-03-09 10:00:00,Software,Critical,Cerrado,Carlos Mendoza,  yesenia pérez jaramillo  ,0.0
+TCK-1909,2026-04-27 15:00:00,2026-04-28 06:00:00,SOFTWARE,Media,Cerrado,Ana Torres,Jhon Jairo Pérez Valencia,0.0
+TCK-1910,2026-03-10 12:00:00,,Impresoras,Media,Abierto,Sofia Ramos,Cecilia Gloria Monroy,0.0
+TCK-1911,2026-03-14 11:00:00,,Software,ALTA,Abierto,Ana Torres,  césar bernal medina  ,0.0
+TCK-1912,2026-03-02 17:00:00,,Software,Baja,Abierto, Sin Asignar ,Ana Franco Jiménez,0.0
+TCK-1913,2026-01-03 15:00:00,2026-01-04 12:00:00,SOFTWARE,ALTA,Resuelto,carlos mendoza,Benjamín Jaime Espitia Rojas,0.0
+TCK-1914,2026-04-19 17:00:00,,Hardware,Alta,En Proceso, Sin Asignar ,  mary rivera morales  ,179.77
+TCK-1915,2026-04-01 17:00:00,2026-04-01 20:00:00,Hardware,Baja,CERRADO, Sin Asignar ,Jhon José Vega Romero,165.2
+TCK-1916,2026-04-05 10:00:00,2026-04-05 13:00:00,Laptops / Equipos,Media,CERRADO,Luis Gómez,  óscar david castañeda  ,256.56
+TCK-1917,2026-04-30 10:00:00,2026-05-01 07:00:00,SOFTWARE,Critical,Cerrado,Sofia Ramos,  robert granados  ,0.0
+TCK-1918,2026-01-12 10:00:00,,hardware,Baja,Abierto,carlos mendoza,Lina Mónica Sánchez Gutiérrez,226.44
+TCK-1919,2026-03-09 17:00:00,,Laptops / Equipos,Baja,En Proceso,Sofia Ramos,Martín Jhoan Herrera Martínez,171.46
+TCK-1920,2026-02-08 16:00:00,,Hardware,Media,Abierto,Ana Torres,  cecilia espinosa  ,107.91
+TCK-1921,2026-02-11 15:00:00,,Hardware,ALTA,Abierto,Carlos Mendoza,Javier Camilo Villa Ramírez,494.63
+TCK-1922,2026-04-28 15:00:00,2026-04-29 01:00:00,Hardware,Baja,Cerrado,Carlos Mendoza,Julia Claudia Escobar,156.38
+TCK-1923,2026-05-11 12:00:00,2026-05-12 02:00:00,Laptops / Equipos,Alta,CERRADO, Sin Asignar ,Andrea Pérez,106.67
+TCK-1924,2026-03-05 15:00:00,2026-03-06 13:00:00,Hardware,Baja,Cerrado,carlos mendoza,Fabián Manuel Bustos Gamboa,78.56
+TCK-1925,2026-01-28 13:00:00,2026-01-28 15:00:00,Hardware,ALTA,Resuelto,carlos mendoza,Armando Camilo Ávila Rodríguez,237.95
+TCK-1926,2026-06-02 08:00:00,,Hardware,,En Proceso, Sin Asignar ,Emiro Solano Duque,175.96
+TCK-1927,2026-05-26 10:00:00,2026-05-26 14:00:00,hardware,,Resuelto,Luis Gómez,Stiven Reyes,
+TCK-1928,2026-06-04 14:00:00,2026-06-05 16:00:00,Redes y Accesos,Media,Cerrado,Ana Torres,María López,0.0
+TCK-1929,2026-01-23 08:00:00,2026-01-23 19:00:00,Impresoras,ALTA,Resuelto,Luis Gómez,Eduar Fernando Camacho Arévalo,0.0
+TCK-1930,2026-02-09 09:00:00,,Impresoras,ALTA,En Proceso,carlos mendoza,Natalia Martínez Chacón,0.0
+TCK-1931,2026-06-25 17:00:00,2026-06-26 16:00:00,SOFTWARE,Alta,Resuelto,Luis Gómez,Antonio Gil,0.0
+TCK-1932,2026-04-10 15:00:00,,Laptops / Equipos,Critical,En Proceso,Sofia Ramos,  ximena luz guzmán vargas  ,222.82
+TCK-1933,2026-02-17 14:00:00,,Hardware,Alta,Abierto, Sin Asignar ,Luz María Quintero Valencia,242.49
+TCK-1934,2026-06-25 10:00:00,,Laptops / Equipos,,Abierto,carlos mendoza,Esperanza María Torres,159.54
+TCK-1935,2026-05-03 12:00:00,2026-05-03 21:00:00,SOFTWARE,Baja,Resuelto,Ana Torres,Diana Gilma Rivera Fernández,0.0
+TCK-1936,2026-01-13 16:00:00,2026-01-13 19:00:00,Laptops / Equipos,Alta,Cerrado, Sin Asignar ,Martha Guzmán Mosquera,65.35
+TCK-1937,2026-05-26 12:00:00,,Redes y Accesos,Critical,En Proceso,Carlos Mendoza,Cristian Fernández López,
+TCK-1938,2026-06-19 15:00:00,2026-06-20 03:00:00,hardware,ALTA,Resuelto,Carlos Mendoza,  milena zapata  ,440.84
+TCK-1939,2026-05-31 15:00:00,,Laptops / Equipos,Baja,Abierto,Luis Gómez,Carlos Domínguez Pardo,438.25
+TCK-1940,2026-02-17 09:00:00,2026-02-18 02:00:00,hardware,,CERRADO,Carlos Mendoza,José Ramírez Molina,28.6
+TCK-1941,2026-01-04 10:00:00,,Impresoras,,Abierto,Sofia Ramos,Luis Carlos Hernández Bastidas,0.0
+TCK-1942,2026-06-04 15:00:00,,Laptops / Equipos,Critical,En Proceso,Luis Gómez,Oswaldo Pedro Gil,482.31
+TCK-1943,2026-03-19 09:00:00,2026-03-19 18:00:00,Hardware,Media,Resuelto,Carlos Mendoza,Luis Gabriel Ospina Álvarez,354.1
+TCK-1944,2026-01-07 11:00:00,,SOFTWARE,Media,Abierto,carlos mendoza,Andrés José Escobar,0.0
+TCK-1945,2026-05-18 11:00:00,2026-05-19 07:00:00,hardware,ALTA,Cerrado,Ana Torres,Blanca Lorena Pinzón García,30.47
+TCK-1946,2026-02-09 15:00:00,,Impresoras,Alta,Abierto,Sofia Ramos,Esteban González,0.0
+TCK-1947,2026-05-26 14:00:00,2026-05-27 12:00:00,Hardware,Alta,Cerrado,carlos mendoza,Francy Lucy Mendoza,227.26
+TCK-1948,2026-05-07 17:00:00,2026-05-09 05:00:00,Redes y Accesos,Alta,CERRADO,Sofia Ramos,Laura Rodríguez,0.0
+TCK-1949,2026-06-06 15:00:00,2026-06-06 19:00:00,Laptops / Equipos,Alta,Resuelto,Sofia Ramos,Eva Martínez,285.56
+TCK-1950,2026-06-15 14:00:00,,Hardware,ALTA,Abierto, Sin Asignar ,Juan Rengifo,186.45
+TCK-1951,2026-01-06 10:00:00,,SOFTWARE,Media,En Proceso,Sofia Ramos,Santiago Moreno,0.0
+TCK-1952,2026-02-26 17:00:00,,Laptops / Equipos,,En Proceso,carlos mendoza,Óscar Willian Márquez López,443.92
+TCK-1953,2026-04-10 14:00:00,,hardware,ALTA,En Proceso,Ana Torres,Luz Margarita Cifuentes,155.58
+TCK-1954,2026-06-20 15:00:00,2026-06-21 03:00:00,Software,Media,Resuelto, Sin Asignar ,Andrés Cristian Moreno Caicedo,0.0
+TCK-1955,2026-05-07 12:00:00,2026-05-08 02:00:00,Laptops / Equipos,Alta,Resuelto,Carlos Mendoza,Yasmín Gamboa Cruz,145.19
+TCK-1956,2026-02-14 16:00:00,2026-02-14 21:00:00,Redes y Accesos,ALTA,Cerrado,Carlos Mendoza,Andrés Espinosa,0.0
+TCK-1957,2026-02-27 15:00:00,,Redes y Accesos,Baja,En Proceso,Carlos Mendoza,Fabián Bonilla Díaz,0.0
+TCK-1958,2026-02-08 16:00:00,2026-02-08 23:00:00,SOFTWARE,Alta,CERRADO,Sofia Ramos,Diana Beatriz Triana Ortiz,0.0
+TCK-1959,2026-01-29 09:00:00,2026-01-29 16:00:00,hardware,Critical,CERRADO,Carlos Mendoza,Danny Díaz,100.18
+TCK-1960,2026-02-22 13:00:00,2026-02-23 08:00:00,SOFTWARE,ALTA,Resuelto, Sin Asignar ,Adriana Valentina Chávez Gómez,0.0
+TCK-1961,2026-02-09 13:00:00,,hardware,Media,En Proceso,Carlos Mendoza,Pablo Vera Monsalve,230.77
+TCK-1962,2026-01-02 11:00:00,,Redes y Accesos,Baja,Abierto, Sin Asignar ,  brayan pérez  ,0.0
+TCK-1963,2026-04-17 13:00:00,2026-04-17 23:00:00,hardware,Critical,Resuelto,Sofia Ramos,Tania Mónica Rentería Mendoza,86.24
+TCK-1964,2026-04-15 15:00:00,2026-04-16 15:00:00,Hardware,ALTA,CERRADO,Ana Torres,Brayan John Castellanos Montes,364.46
+TCK-1965,2026-01-18 09:00:00,,Redes y Accesos,ALTA,En Proceso,Ana Torres,Esperanza Estrada Bustos,0.0
+TCK-1966,2026-01-10 10:00:00,2026-01-10 14:00:00,SOFTWARE,,CERRADO,carlos mendoza,Clara Torres,0.0
+TCK-1967,2026-04-18 14:00:00,2026-04-19 10:00:00,SOFTWARE,,CERRADO,Luis Gómez,Marina Ana Castillo,
+TCK-1968,2026-03-13 16:00:00,2026-03-14 02:00:00,SOFTWARE,ALTA,CERRADO,Sofia Ramos,Edwin José Contreras Ospina,0.0
+TCK-1969,2026-06-09 17:00:00,,SOFTWARE,Baja,Abierto,carlos mendoza,William Enrique Burgos Díaz,0.0
+TCK-1970,2026-03-19 09:00:00,2026-03-20 20:00:00,Redes y Accesos,ALTA,Cerrado,carlos mendoza,Jaime Díaz Ramírez,0.0
+TCK-1971,2026-05-14 16:00:00,,Software,Alta,En Proceso, Sin Asignar ,Alejandra Milena Suárez González,0.0
+TCK-1972,2026-06-12 10:00:00,2026-06-12 12:00:00,hardware,Critical,Cerrado, Sin Asignar ,Sofía Angarita,419.47
+TCK-1973,2026-04-19 16:00:00,2026-04-19 20:00:00,hardware,Baja,Cerrado,Luis Gómez,Inés Suárez,
+TCK-1974,2026-06-16 09:00:00,,Redes y Accesos,Critical,Abierto,carlos mendoza,  liliana gisela lozano obando  ,0.0
+TCK-1975,2026-03-02 17:00:00,2026-03-04 04:00:00,hardware,Critical,CERRADO,Ana Torres,Jefferson Martínez Cuéllar,156.58
+TCK-1976,2026-05-27 10:00:00,,Laptops / Equipos,,Abierto,Ana Torres,  carlos rosero  ,267.9
+TCK-1977,2026-04-03 15:00:00,2026-04-04 01:00:00,SOFTWARE,ALTA,Cerrado,Sofia Ramos,  luisa quiroz  ,
+TCK-1978,2026-02-03 15:00:00,2026-02-04 20:00:00,Hardware,Baja,Resuelto,carlos mendoza,María Giraldo,302.35
+TCK-1979,2026-04-12 12:00:00,2026-04-13 20:00:00,SOFTWARE,ALTA,CERRADO,Sofia Ramos,Alba Laura López,0.0
+TCK-1980,2026-04-17 10:00:00,2026-04-18 19:00:00,Software,ALTA,Resuelto,carlos mendoza,María Valencia Ortiz,0.0
+TCK-1981,2026-05-12 16:00:00,2026-05-13 06:00:00,Impresoras,ALTA,Cerrado,Carlos Mendoza,Daniel Christian Ramírez,0.0
+TCK-1982,2026-04-05 09:00:00,2026-04-06 12:00:00,Hardware,Alta,CERRADO,Luis Gómez,Andrea Jhoana Hurtado,39.34
+TCK-1983,2026-04-06 12:00:00,,Redes y Accesos,Baja,En Proceso,Sofia Ramos,  cecilia palacios  ,0.0
+TCK-1984,2026-05-31 14:00:00,2026-06-01 10:00:00,Redes y Accesos,Media,Cerrado,Ana Torres,Graciela Granados Jaramillo,0.0
+TCK-1985,2026-02-01 16:00:00,,Hardware,Alta,En Proceso,Sofia Ramos,William Francisco Calderón Osorio,168.66
+TCK-1986,2026-03-28 14:00:00,,hardware,,Abierto, Sin Asignar ,  luis alexander londoño  ,86.49
+TCK-1987,2026-04-26 15:00:00,2026-04-27 12:00:00,Hardware,Critical,Resuelto,carlos mendoza,Anderson Daniel Reyes,205.87
+TCK-1988,2026-03-28 16:00:00,2026-03-29 21:00:00,SOFTWARE,Baja,Cerrado,carlos mendoza,  óscar quintero  ,0.0
+TCK-1989,2026-01-07 17:00:00,,Laptops / Equipos,,En Proceso,Carlos Mendoza,Jorge Enrique Ojeda,60.87
+TCK-1990,2026-05-19 17:00:00,2026-05-21 03:00:00,Software,ALTA,Cerrado, Sin Asignar ,Luis Díaz Salas,0.0
+TCK-1991,2026-05-17 10:00:00,2026-05-18 04:00:00,hardware,Media,Cerrado,Ana Torres,Tulio Andrés Vélez,422.68
+TCK-1992,2026-01-22 16:00:00,2026-01-23 13:00:00,Impresoras,Critical,CERRADO,Carlos Mendoza,Carlos Jhon Moreno,0.0
+TCK-1993,2026-03-29 14:00:00,2026-03-30 17:00:00,Hardware,Critical,Resuelto,Luis Gómez,Yaneth Dayana Torres Bernal,63.69
+TCK-1994,2026-05-19 10:00:00,,Software,Media,En Proceso,Luis Gómez,Nicolás Enrique García Caicedo,0.0
+TCK-1995,2026-04-15 10:00:00,2026-04-16 07:00:00,Software,Alta,Cerrado,carlos mendoza,  eduardo dairo silva  ,0.0
+TCK-1996,2026-03-23 10:00:00,,Redes y Accesos,Baja,Abierto,Sofia Ramos,Andrey Fajardo,0.0
+TCK-1997,2026-01-14 11:00:00,2026-01-15 03:00:00,Impresoras,Critical,Resuelto, Sin Asignar ,Carolina María Cruz,0.0
+TCK-1998,2026-01-16 13:00:00,,Laptops / Equipos,ALTA,Abierto,Carlos Mendoza,Esperanza Astrid Pacheco Cáceres,215.6
+TCK-1999,2026-01-05 12:00:00,2026-01-05 19:00:00,Software,Critical,CERRADO,carlos mendoza,Luz Carol García,0.0
+TCK-2000,2026-04-15 15:00:00,2026-04-17 00:00:00,Software,Media,Cerrado,Luis Gómez,Paola Sánchez Salgado,0.0
