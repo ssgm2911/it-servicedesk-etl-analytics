@@ -55,6 +55,7 @@ En las áreas de soporte de TI, el registro manual y heterogéneo de incidencias
 1. **Clonar el repositorio:**
    
 git clone [https://github.com/TU_USUARIO/it-servicedesk-etl-analytics.git](https://github.com/TU_USUARIO/it-servicedesk-etl-analytics.git)
+
 cd it-servicedesk-etl-analytics
 
 3. **Instalar dependencias necesarias:**
@@ -71,6 +72,7 @@ Edita la variable DB_PASS en scripts/etl_pipeline.py con tu contraseña de MySQL
 
 Ejecuta los scripts desde tu terminal:
 python scripts/generar_datos_ti.py
+
 python scripts/etl_pipeline.py
 
 6. **Visualizar el Dashboard:**
