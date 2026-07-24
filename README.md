@@ -71,6 +71,7 @@ CREATE DATABASE IF NOT EXISTS ti_service_desk;
 Edita la variable DB_PASS en scripts/etl_pipeline.py con tu contraseña de MySQL local.
 
 Ejecuta los scripts desde tu terminal:
+
 python scripts/generar_datos_ti.py
 
 python scripts/etl_pipeline.py
